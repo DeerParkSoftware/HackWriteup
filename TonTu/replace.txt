@@ -1,0 +1,3 @@
+Replace:
+sanh /sinh: sinh
+khả /khắc: khả
