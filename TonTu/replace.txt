@@ -1,3 +1,49 @@
-Replace:
-sanh /sinh: sinh
-khả /khắc: khả
+sanh /sinh
+sinh
+khả /khắc
+khả
+tương /tướng
+tướng
+lệnh /linh /lịnh
+lệnh
+dư /dữ
+dữ
+thướng /thượng
+thượng
+thì /thời
+thời
+dị /dịch
+dị
+nghiễm /quảng
+quảng
+giáo /hiệu
+hiệu
+sách /tác
+sách
+hữu /hựu
+hữu
+hàng /hãng /hành
+hành
+cường /cưỡng
+cường
+hĩ /hỹ
+hĩ
+lưu /lựu
+lưu
+vi /vị
+vi
+quỉ /quỷ
+quỷ
+kì /kỳ /thị
+thị
+thật /thực
+thực
+tị /tỵ
+tị
+náo /nhiễu
+náo
+ti /tì /ty
+ty
+thân /thấn
+thân
+
