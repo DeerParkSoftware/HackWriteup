@@ -260,7 +260,7 @@ Người đồng sáng lập và Giám đốc điều hành Google
 
 Khi tôi còn trẻ và lần đầu tiên bắt đầu nghĩ về tương lai của mình, tôi đã quyết định trở thành một giáo sư hoặc thành lập một công ty. Tôi cảm thấy rằng một trong hai lựa chọn sẽ mang lại cho tôi nhiều quyền tự chủ — tự do suy nghĩ từ những nguyên lý đầu tiên và vật lý trong thế giới thực thay vì phải chấp nhận “sự khôn ngoan” đang thịnh hành.
 
-Như Eric và Jonathan giải thích trong Cách hoạt động của Google, chúng tôi đã cố gắng áp dụng tư duy tự chủ này vào hầu hết mọi thứ chúng tôi làm tại Google. Đó là động lực đằng sau những thành công lớn nhất của chúng tôi và một số thất bại ấn tượng. Trên thực tế, bắt đầu từ những nguyên tắc đầu tiên là điều khiến Google phát triển. Một đêm, tôi có một giấc mơ (theo đúng nghĩa đen) và thức dậy và suy nghĩ… điều gì sẽ xảy ra nếu bạn có thể tải xuống toàn bộ trang Web và chỉ giữ lại các liên kết? Vì vậy, tôi lấy một cây bút và viết nguệch ngoạc các chi tiết để tìm hiểu xem liệu nó có thực sự khả thi hay không. Ý tưởng về việc xây dựng một công cụ tìm kiếm thậm chí còn chưa có trên radar của tôi vào thời điểm đó. Mãi sau này, Sergey và tôi mới nhận ra xếp hạng các trang web theo liên kết của họ có thể tạo ra kết quả tìm kiếm tốt hơn nhiều. Gmail cũng bắt đầu như một giấc mơ viển vông. Và khi Andy Rubin bắt đầu Android một thập kỷ trước,
+Như Eric và Jonathan giải thích trong Cách hoạt động của Google, chúng tôi đã cố gắng áp dụng tư duy tự chủ này vào hầu hết mọi thứ chúng tôi làm tại Google. Đó là động lực đằng sau những thành công lớn nhất của chúng tôi và một số thất bại ấn tượng. Trên thực tế, bắt đầu từ những nguyên tắc đầu tiên là điều khiến Google phát triển. Một đêm, tôi có một giấc mơ (theo đúng nghĩa đen) và thức dậy và suy nghĩ… điều gì sẽ xảy ra nếu bạn có thể tải xuống toàn bộ trang Web và chỉ giữ lại các liên kết? Vì vậy, tôi lấy một cây bút và viết nguệch ngoạc các chi tiết để tìm hiểu xem liệu nó có thực sự khả thi hay không. Ý tưởng về việc xây dựng một công cụ tìm kiếm thậm chí còn chưa có trên radar của tôi vào thời điểm đó. Mãi sau này, Sergey và tôi mới nhận ra xếp hạng các trang web theo liên kết của họ có thể tạo ra kết quả tìm kiếm tốt hơn nhiều. Gmail cũng bắt đầu như một giấc mơ viển vông. Và khi Andy Rubin bắt đầu sử dụng Android một thập kỷ trước, hầu hết mọi người đều nghĩ rằng việc sắp xếp ngành công nghiệp di động xung quanh một hệ điều hành mã nguồn mở là điều tồi tệ.
 
 Theo thời gian, tôi đã học được một điều đáng ngạc nhiên là rất khó để khiến các đội trở nên siêu tham vọng. Hóa ra hầu hết mọi người đã không được giáo dục về kiểu suy nghĩ tuyệt vời này. Họ có xu hướng cho rằng mọi thứ là không thể, thay vì bắt đầu từ vật lý trong thế giới thực và tìm ra những gì thực sự có thể. Đó là lý do tại sao chúng tôi đã dành rất nhiều sức lực để thuê những nhà tư tưởng độc lập tại Google và đặt ra những mục tiêu lớn. Bởi vì nếu bạn thuê đúng người và có ước mơ đủ lớn, bạn thường sẽ đạt được điều đó. Và ngay cả khi bạn thất bại, bạn có thể sẽ học được điều gì đó quan trọng.
 
@@ -4228,43 +4228,3 @@ Cũng bởi Eric Schmidt
 Bảng chú giải
 
 Bản tin
-
-Bản quyền
-
-
-
-
-
-Bản quyền
-
-
-
-Bản quyền © 2014 của Google, Inc.
-
-Tất cả các hình minh họa © Nishant Choksi 2014
-
-Thiết kế bìa của Jonathan Jarvis
-
-Bản quyền bìa © 2014 bởi Hachette Book Group, Inc.
-
-Đã đăng ký Bản quyền. Theo Đạo luật Bản quyền Hoa Kỳ năm 1976, việc quét, tải lên và chia sẻ điện tử bất kỳ phần nào của cuốn sách này mà không có sự cho phép của nhà xuất bản sẽ cấu thành hành vi vi phạm bản quyền bất hợp pháp và ăn cắp tài sản trí tuệ của tác giả. Nếu bạn muốn sử dụng tài liệu từ cuốn sách (ngoài mục đích đánh giá), bạn phải xin phép trước bằng văn bản bằng cách liên hệ với nhà xuất bản tại permissions@hbgusa.com. Cảm ơn bạn đã ủng hộ quyền của tác giả.
-
-Nhóm sách Hachette
-
-237 Park Avenue, New York, NY 10017
-
-hachettebookgroup.com
-
-twitter.com/grandcentralpub
-
-Ấn bản sách điện tử đầu tiên: tháng 9 năm 2014
-
-Grand Central Publishing là một bộ phận của Hachette Book Group, Inc.
-
-Tên và biểu tượng của Nhà xuất bản Grand Central là thương hiệu của Hachette Book Group, Inc.
-
-Nhà xuất bản không chịu trách nhiệm về các trang web (hoặc nội dung của chúng) không thuộc sở hữu của nhà xuất bản.
-
-ISBN 978-1-4555-8233-4
-
-E3
