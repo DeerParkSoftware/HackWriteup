@@ -1,0 +1,1144 @@
+Translator: Phuong Quach
+Reviewer: Michelle Nguyen
+
+Thật là một việc kì lạ.
+
+Phần mềm Linux nằm trong 
+hàng triệu máy tính,
+
+cực kỳ phổ biến trên mạng Internet.
+
+Và tôi nghĩ rằng
+
+có khoảng hơn một tỷ rưỡi
+thiết bị Android đang hoạt động.
+
+Phần mềm của anh có mặt
+trong tất cả chúng, từng chiếc một.
+
+Thật đáng ngạc nhiên.
+
+Anh chắc phải sở hữu trụ sở chính
+chuyên thiết kế phần mềm để làm điều đó.
+
+Đó là điều tôi từng nghĩ,
+và tôi bị sốc khi thấy bức tranh này.
+
+Ý tôi là, đây là -
+
+đây là trụ sở toàn cầu của Linux.
+
+(Cười)
+
+(Vỗ tay)
+
+Linus Torvalds: Không giống những gì
+anh tưởng tượng lắm.
+
+Và tôi phải nói,
+
+điểm thú vị nhất trong bức tranh này,
+
+điều hầu như ai cũng để ý tới,
+
+là chiếc bàn biết đi này.
+
+Đây là điều thú vị nhất 
+trong văn phòng của tôi
+
+và thật ra tôi không còn dùng nó nữa.
+
+Và tôi nghĩ có hai thứ liên quan.
+
+Cách tôi làm việc...
+
+Tôi không muốn nhận 
+kích thích từ bên ngoài.
+
+Bạn có thể thấy, trên các bức tường
+là ánh sáng màu xanh.
+
+Tôi được biết là các viện tâm thần
+gắn nó trên các bức tường.
+
+(Cười)
+
+Nó tương tự một màu trầm,
+
+đây không phải điều thật sự động viên bạn.
+
+Điều bạn không thể thấy là máy tính ở đây,
+bạn chỉ có thể thấy màn hình,
+
+nhưng điều tôi lo lắng chủ yếu là 
+chiếc máy tính của mình -
+
+nó không có lớn và không có mạnh,
+dù tôi thích như vậy -
+
+thật không có gì để bàn.
+
+Tôi biết nhiều người làm việc cho Google
+
+và họ có trung tâm dữ liệu riêng 
+tại nhà mình,
+
+và tôi không làm vậy.
+
+Văn phòng của tôi là nơi chán nhất
+mà bạn từng gặp.
+
+Và tôi ngồi đây một mình trong yên lặng.
+
+Nếu con mèo chạy ngang,
+
+nó sẽ nhảy lên đùi tôi.
+
+Và tôi muốn nghe tiếng kêu của nó,
+
+không phải âm thanh 
+của chiếc quạt trong máy tính.
+
+Điều này thật là lạ,
+
+vì làm việc theo kiểu này,
+
+anh có thể mở cả một đế quốc
+công nghệ to lớn -
+
+đây là một đế chế -
+
+nên đó là bằng chứng đáng ngạc nhiên
+về năng lượng của mã nguồn mở.
+
+Hãy kể chúng tôi nghe cách 
+anh hiểu về mã nguồn mở
+
+và cách nó dẫn tới 
+sự phát triển của Linux.
+
+Ý là tôi vẫn 
+làm việc một mình.
+
+Thật ra - tôi làm việc tại nhà của mình,
+
+tôi thường mặc áo choàng tắm.
+
+Khi một nhà nhiếp ảnh đến, 
+tôi được lên hình,
+
+nên tôi mặc quần áo vào.
+
+(Cười)
+
+Và đó là cách làm việc của tôi.
+
+Đây cũng là cách 
+tôi thành lập Linux.
+
+Tôi không thành lập Linux 
+như một dự án hợp tác.
+
+Tôi bắt đầu là vì nó là 
+một trong chuỗi dự án
+
+có lúc tôi từng làm cho riêng mình,
+
+một phần vì tôi cần 
+kết quả cuối cùng,
+
+mà thậm chí còn vì 
+tôi chỉ thích lập trình.
+
+Cho nên đây là chặng cuối 
+của cuộc hành trình,
+
+mà, 25 năm sau, chúng tôi 
+vẫn chưa đạt được.
+
+Nhưng thật ra là tôi đang tìm 
+một dự án cho riêng mình
+
+và thật ra không hề có 
+mã nguồn mở trên máy ra-đa.
+
+Và điều xảy ra là...
+
+dự án tiến triển và trở thành thứ 
+mà anh muốn khoe với mọi người.
+
+Thật ra, chuyện là "Chà, hãy xem 
+những gì tôi đã làm!"
+
+Tin tôi đi - sau đó
+chuyện cũng không khá lên là mấy.
+
+Tôi đã công bố cho mọi người,
+
+và lúc đó còn không có mã nguồn mở nữa.
+
+Lúc đó, mã nguồn đã được mở, 
+nhưng không có mục đích
+
+sau khi dùng phương pháp mã nguồn mở
+mà chúng ta nghĩ ngày nay
+
+để cải thiện nó.
+
+Dường như là,
+
+"Nhìn xem, tôi từng
+nghiên cứu được nửa năm,
+
+tôi thích xem những lời bình luận."
+
+Và những người khác đã tiếp cận tôi.
+
+Tại trường đại học Helsinki,
+
+tôi có người bạn - 
+một trong những mã nguồn mở -
+
+sau đó nó được gọi là 
+"phần mềm miễn phí" -
+
+và cậu ấy đã giới thiệu cho tôi 
+quan điểm đó, nè,
+
+anh có thể dùng những bản quyền 
+mã nguồn mở xung quanh.
+
+Và tôi từng có suy nghĩ.
+
+Thật ra tôi lo lắng về 
+những lợi ích thương mại tổng thể.
+
+Ý tôi là, đó là một trong những lo lắng 
+tôi nghĩ hầu hết mọi người đều mắc phải,
+
+đó là họ lo ai đó lợi dụng 
+công việc của mình, đúng không?
+
+Và tôi đã quyết định, 
+"Nó là cái quái gì vậy?"
+
+Và -
+
+Và đôi khi,
+
+ai đó đóng góp mật mã mà anh nghĩ,
+
+"Chà, điều đó thật thú vị, 
+tôi sẽ không nghĩ về nó nữa.
+
+Điều này có thể cải thiện được."
+
+Thậm chí nhiều người đóng góp mật mã
+còn chưa bắt đầu,
+
+hơn nữa những người đó 
+bắt đầu đóng góp ý kiến.
+
+Và thật ra chỉ là ai đó khác nữa
+chỉ nhìn vào dự án của bạn -
+
+và tôi chắc chắn đây cũng đúng 
+với những điều khác,
+
+nhưng hoàn toàn là thật theo luật -
+
+chính là ai đó khác nữa 
+có hứng thú với mật mã của bạn,
+
+nhìn nó cũng đủ để cho anh đưa phản hồi
+
+và cung cấp ý tưởng cho anh.
+
+Đó là chuyện lớn đối với tôi.
+
+Lúc đó tôi 21 tuổi, nên tôi vẫn còn trẻ,
+
+nhưng cơ bản thì tôi đã 
+lập trình cho nửa đời mình,
+
+Và mỗi dự án trước đó 
+hoàn toàn liên quan cá nhân
+
+và đó là sự phát hiện khi nhiều người 
+vừa mới bắt đầu bình luận.
+
+bắt đầu đưa phản hồi về mật mã của anh.
+
+Và thậm chí trước khi họ 
+bắt đầu trả lại mật mã,
+
+tôi nghĩ đó là một khoảnh khắc 
+tuyệt vời tôi từng kể,
+
+"Tôi yêu mọi người!"
+
+Đừng hiểu lầm tôi -
+
+TôI không phải 
+người vì mọi người.
+
+(Cười)
+
+Tôi thật sự không yêu mọi người -
+
+(Cười)
+
+Nhưng tôi yêu máy tính,
+
+tôi thích tương tác 
+với người khác qua email,
+
+vì nó cung cấp bộ đệm cho bạn.
+
+Nhưng tôi yêu những người đưa ra lời bình
+và tham gia vào dự án của tôi.
+
+Và còn nhiều hơn thế nữa.
+
+Vậy có lúc nào anh thấy những gì 
+đang được xây dựng
+
+và đột nhiên bị trì hoãn,
+
+và bạn nghĩ, "Chờ một chút, 
+chắc có cái gì đó khổng lồ,
+
+không chỉ là dự án cá nhân 
+mà tôi nhận phản hồi tích cực,
+
+mà còn là một sự phát triển đột ngột
+trong thế giới công nghệ?
+
+Không hẳn là vậy.
+
+Ý tôi là, điều quan trọng đối với tôi, 
+thật ra, không phải chuyện lớn lao,
+
+mà chỉ là chuyện nhỏ mà thôi.
+
+Điều quan trọng là tôi không có một mình
+
+và có 10, có lẽ 100 người tham gia -
+
+đó mới là điều quan trọng.
+
+Và những chuyện khác thì 
+từng bước từng bước một.
+
+Từ 100 người lên đến 1 triệu người 
+không phải là vấn đề lớn - với tôi.
+
+À, ý tôi là, có lẽ nếu anh là -
+
+(Cười)
+
+Nếu anh muốn bán kết quả 
+thì đó là chuyện lớn đó -
+
+đừng hiểu lầm tôi.
+
+Nhưng nếu anh quan tâm đến công nghệ
+
+và anh có hứng thú với dự án,
+
+chủ yếu là hút 
+sự chú ý của công chúng.
+
+Và cộng đồng sẽ
+dần dần phát triển.
+
+Và thật ra đây không chỉ là 
+một vấn đề mà tôi đề cập,
+
+"Chà, chỉ là bắt chước thôi!" bởi vì nó -
+
+ý tôi là - gần như phải 
+mất một khoảng thời gian.
+
+Những chuyên gia công nghệ 
+mà tôi đề cập thật sự có uy tín
+
+với việc thay đổi hoàn toàn 
+công việc của họ.
+
+Và đó không phải là Linux,
+
+mà nó có tên gọi là Git,
+
+một hệ thống quản lí dành cho 
+sự phát triển phần mềm.
+
+Hãy kể ngắn gọn với chúng tôi
+chuyện đó và vai trò của anh.
+
+Vấn đề mà chúng tôi gặp phải,
+
+và điều này mất một lúc 
+mới bắt đầu xuất hiện,
+
+là khi anh...
+
+Khi anh tăng từ 10 người hoặc 100 người 
+làm việc trong một dự án,
+
+lên đến 10 000 người, mà -
+
+ý tôi là, lúc này chúng tôi chỉ 
+tập trung vào nhân của hệ điều hành,
+
+chúng tôi có 1 000 người tham gia 
+trong từng bộ phận.
+
+và diễn ra mỗi 2 tháng, 
+khoảng 2 hay 3 tháng.
+
+Có vài người không làm nhiều như vậy.
+
+Có nhiều người có 
+những sự thay đổi nho nhỏ.
+
+Nhưng để duy trì điều này,
+
+cán cân thay đổi cách anh 
+phải bảo dưỡng nó.
+
+Và chúng tôi đã phải 
+trải qua nhiều đau đớn.
+
+Và có nhiều dự án chỉ tập trung
+bảo trì mã nguồn mở.
+
+CVS là thứ từng được 
+sử dụng phổ biến nhất,
+
+và tôi cực kì ghét CVS 
+và từ chối chạm vào nó
+
+và thử vài thứ khác 
+mang tính cơ bản và thú vị.
+
+và những người khác cũng ghét.
+
+(Cười)
+
+Và chúng tôi nằm trong tình trạng xấu,
+
+nơi chúng tôi có hàng ngàn người 
+muốn tham gia vào,
+
+nhưng thử nhiều cách khác nhau,
+tôi lại là người hay ngừng giữa chừng,
+
+nơi tôi không thể cân bằng đến điểm
+
+mà tôi có thể làm việc 
+cùng hàng ngàn người.
+
+Git là dự án lớn thứ hai của tôi,
+
+chỉ được tạo ra để tiếp nối 
+dự án lớn đầu tiên của tôi.
+
+Và đây mới thật sự là 
+cách làm việc của tôi.
+
+Tôi không viết mật mã -
+
+à, tôi viết chỉ vì vui mà thôi -
+
+nhưng tôi muốn giải mã 
+thứ gì đó có ý nghĩa
+
+nên những dự án tôi từng làm 
+là thứ mà tôi cần
+
+và -
+
+Vậy thật ra, cả Linux và Git mới xuất hiện
+
+gần như là hậu quả khó đoán trước được
+
+trong mong muốn không phải 
+làm việc với quá nhiều người.
+
+Hoàn toàn chính xác.
+
+(Cười)
+
+CA: Thật là ngạc nhiên.
+LT: Uh.
+
+(Vỗ tay)
+
+Tuy nhiên, anh là người 
+đã chuyển giao công nghệ,
+
+không chỉ 1 
+mà những 2 lần,
+
+và chúng tôi phải cố gắng 
+tìm hiểu nguyên nhân.
+
+Anh từng đưa vài dẫn chứng, nhưng
+
+Đây là ảnh hồi còn nhỏ của anh, 
+với khối vuông rubic.
+
+Anh nói rằng bạn từng lập trình 
+khi anh chỉ mới 10 hay 11 tuổi,
+
+nửa cuộc đời anh.
+
+Anh là thiên tài máy tính, 
+anh biết đó, übernerd,
+
+bạn là ngôi sao trường học 
+có thể làm mọi thứ?
+
+Lúc nhỏ bạn trông thế nào?
+
+À, tôi nghĩ tôi là mọt sách chính hiệu.
+
+Ý tôi là, tôi là...
+
+Và tôi không phải người vì mọi người.
+
+Đó là em trai của tôi.
+
+Thật ra tôi có hứng thú 
+với khối vuông rubic hơn.
+
+hơn em trai tôi.
+
+(Cười)
+
+Em gái tôi, không có trong bức hình này,
+
+khi chúng tôi họp mặt gia đình -
+
+tuy không phải một gia đình lớn 
+nhưng tôi cũng có vài người bà con -
+
+em ấy sẽ giúp tôi chuẩn bị trước.
+
+Trước khi tôi bước vào phòng, em ấy nói,
+
+"Được rồi. Chúng ta tiến hành
+như vầy như vầy..."
+
+Vì tôi không phải -
+
+tôi là một kẻ nhàm chán.
+
+Tôi đam mê máy tính,
+
+tôi thích Toán,
+
+tôi yêu Vật Lí,
+
+tôi giỏi về các môn đó.
+
+Tôi không nghĩ mình 
+là người đặc biệt gì cả.
+
+Em gái tôi rõ ràng có nói,
+
+ưu điểm đặc biệt nhất của tôi 
+đó là tôi sẽ không từ bỏ.
+
+Được rồi, chúng ta bàn vấn đề này,
+vì nó rất thú vị.
+
+Anh sẽ không từ bỏ.
+
+Không phải chuyện về
+sự nhàm chán hay thông minh,
+
+mà là về...sự cố chấp?
+
+Đúng là về sự cố chấp.
+
+Đó là chuyện, như là,
+
+vừa mới bắt đầu
+
+và không có nói rằng, "Được, tôi xong rồi,
+hãy làm gì đó khác đi -
+
+Nhìn kìa: sáng bóng quá!
+
+Và tôi cũng có chú ý đến nhiều phần khác 
+trong cuộc sống của mình.
+
+Tôi sống trong thung lũng Silicon 
+khoảng 7 năm.
+
+Và tôi cũng làm việc cho công ti 
+tương tự thung lũng Silicon,
+
+suốt một khoảng thời gian.
+
+Tôi chưa nghe chuyện đó.
+
+Chuyện không phải cách hoạt động
+của thung lũng Silicon.
+
+Điểm tổng thể của thung lũng Silicon
+đó là những người nhảy việc
+
+rồi đến những người xáo trộn công ti.
+
+Và đó không phải con người của tôi.
+
+Nhưng suốt quá trình 
+phát triển thật sự của Linux,
+
+thỉnh thoảng sự ngoan cố khiến anh
+phải cãi nhau với những người khác.
+
+Hãy nói một chút về điều đó.
+
+Có cần thiết để duy trì chất lượng 
+của những gì đã được gầy dựng hay không?
+
+Anh sẽ mô tả chuyện đã 
+diễn ra như thế nào?
+
+Tôi không biết điều đó 
+có cần thiết không.
+
+Quay lại với chuyện "Tôi không phải 
+người vì mọi người," -
+
+thỉnh thoảng tôi cũng...
+
+chúng ta có thể nói,
+
+"cận thị" khi diễn ra với cảm giác
+của những người khác,
+
+và thỉnh thoảng khiến bạn phải 
+thốt lên lời làm tổn thương người khác.
+
+Và tôi không tự hào về điều đó.
+
+(Vỗ tay)
+
+Nhưng, cùng lúc đó, đó là -
+
+tôi hiểu những người "
+hay nói tôi là người tử tế.
+
+Và khi tôi cố gắng giải thích với họ 
+rằng có lẽ bạn tử tế,
+
+có lẽ bạn nên táo bạo hơn,
+
+họ thấy rằng tôi cũng không hề tử tế.
+
+(Cười)
+
+Điều tôi muốn nói là
+chúng ta khác biệt nhau.
+
+Tôi không phải người vì mọi người;
+
+không phải điều tôi 
+lấy làm tự hào cho lắm,
+
+nhưng đó là một phần trong tôi.
+
+Và một trong những điều tôi 
+thật sự thích về mã nguồn mở
+
+chính là nó thật sự cho phép 
+mọi người làm việc cùng nhau.
+
+Chúng ta không phải thích nhau -
+
+thỉnh thoảng chúng ta cũng
+không hề thích nhau.
+
+Thật ra ý tôi là, có rất rất nhiều 
+cuộc tranh luận sôi nổi.
+
+Nhưng thật ra bạn có thể, 
+bạn có thể tìm thấy -
+
+thậm chí bạn không thể 
+đồng ý hay bất đồng,
+
+chỉ là bạn quan tâm nhiều thứ khác nhau.
+
+Và quay lại điều mà tôi đề cập trước đó
+
+tôi lo sợ những người buôn bán 
+lợi dụng công việc của bạn,
+
+hóa ra là, một cách nhanh chóng,
+
+những người buôn bán đó là những người 
+đáng yêu dễ mến.
+
+Và họ đã làm mọi thứ
+tôi không hề có hứng thú tham gia,
+
+họ có những mục tiêu hoàn toàn khác nhau.
+
+Và họ đã dùng mã nguồn mở theo cách 
+mà tôi không muốn làm chút nào.
+
+Vì đây là mã nguồn mở 
+nên họ có thể làm được,
+
+có thể cùng nhau 
+phối hợp một cách hoàn hảo.
+
+Và tôi cũng nghĩ nó
+hoạt động tương tự.
+
+Anh cần có quan hệ giữa người với người,
+những người truyền đạt,
+
+vừa ấm áp vừa thân thiện
+
+những người như là -
+
+(Cười)
+
+thật sự muốn ôm lấy bạn 
+và giúp bạn hòa nhập cộng đồng.
+
+Nhưng không phải ai cũng vậy.
+
+Và đó không phải là tôi.
+
+Tôi quan tâm đến công nghệ.
+
+Có nhiều người quan tâm về UI.
+
+Tôi không thể tạo UI để kiếm sống.
+
+Ý tôi là, nếu tôi bị mắc kẹt 
+trên một hòn đảo
+
+và cách duy nhất để thoát khỏi hòn đảo 
+là tạo một giao diện UI đẹp
+
+tôi sẽ chết tại đây.
+
+(Cười)
+
+Nên có nhiều loại người khác nhau,
+
+và tôi không phải biện hộ 
+mà là cố gắng giải thích.
+
+Điều chúng ta 
+nói trong tuần trước,
+
+anh đã nói về một vài 
+chân dung khác mà anh có,
+
+tôi rất hứng thú với điều đó.
+
+Ý tưởng này là 
+khiếu thẩm mĩ.
+
+Và tôi vừa mới có vài hình ảnh đây.
+
+Tôi nghĩ đây là một ví dụ về 
+khiếu thẩm mĩ không tốt trong mã nguồn,
+
+và cái này có khiểu thẩm mĩ tốt hơn,
+
+cái mà chúng ta có thể lập tức nhìn thấy.
+
+Sự khác biệt giữa hai bức ảnh này là gì?
+
+Và đây là -
+
+Có bao nhiêu người thật sự có mật mã?
+
+Ôi Chúa ơi.
+
+Tôi đảm bảo với anh,
+
+những người giơ tay lên,
+
+họ đã từng tạo ra cái gọi là 
+danh sách liên kết đơn.
+
+Và nó chỉ cho chúng ta -
+
+Trước tiên không phải 
+cách tiếp cận khiếu thẩm mĩ tốt,
+
+đây cơ bản là cách nó tiến hành 
+khi anh bắt đầu giải mã.
+
+Và anh không phải hiểu mật mã này.
+
+Điều thú vị nhất đối với tôi
+
+là phần mệnh đề "Nếu" cuối cùng.
+
+Vì điều diễn ra trong 
+danh sách liên kết đơn -
+
+nó đang cố gỡ bỏ danh mục
+còn tồn tại trong danh sách -
+
+và có một sự khác biệt giữa liệu 
+đây là danh mục đầu tiên
+
+hay đây là danh mục ở giữa.
+
+Vì nếu đây là danh mục đầu tiên,
+
+bạn phải thay đổi con trỏ 
+tới danh mục đầu tiên.
+
+Nếu là danh mục ở giữa,
+
+bạn phải thay đổi con trỏ 
+đến danh mục trước nó.
+
+Chúng là 2 trường hợp 
+hoàn toàn khác biệt.
+
+Cái đó tốt hơn.
+
+Cái này tốt hơn.
+
+Nó không có mệnh đề "nếu".
+
+Và điều này thật sự không quan trọng -
+
+tôi không muốn anh hiểu tại sao
+nó không có mệnh đề "nếu",
+
+nhưng anh muốn hiểu
+
+thỉnh thoảng anh có thể gặp 
+một vấn đề theo cách khác
+
+và biên tập lại để 
+tình huống đặc biệt biến mất
+
+rồi trở thành tình huống bình thường.
+
+Và đó là một mật mã tốt.
+
+Nhưng đây là mật mã đơn giản.
+
+Đây là CS 101.
+
+Cái này không quan trọng - mặc dù, 
+chi tiết rất quan trọng.
+
+Đối với tôi, dấu hiệu từ một người 
+mà tôi thật sự muốn hợp tác
+
+chính là họ có khiếu thẩm mĩ tốt, 
+cái mà...
+
+Tôi đã gửi anh
+một ví dụ ngớ ngẩn
+
+cái đó không liên quan vì nó quá nhỏ.
+
+Khiếu thẩm mĩ tốt lớn hơn nhiều.
+
+Khiếu thẩm mĩ tốt là về 
+cái nhìn những mẫu lớn
+
+và đại loại như tự mình biết
+cái nào là cách làm đúng.
+
+Được rồi, giờ chúng ta đang ghép
+các mảnh lại với nhau.
+
+Anh có khiếu thẩm mĩ,
+
+mà có ý nghĩa với những người
+thiết kế phần mềm.
+
+Anh là chiếc máy tính -
+
+(Cười)
+
+Tôi nghĩ mọi người có mặt ở đây 
+thật ý nghĩa.
+
+Anh là một người giải mã máy tính
+cực kì thông minh,
+
+và anh cũng cứng đầu kinh khủng.
+
+Nhưng chắc phải có 
+gì đó khác.
+
+Ý tôi, anh sẽ 
+thay đổi tương lai.
+
+Anh chắc là có khả năng 
+thấy trước tương lai.
+
+Anh là người nhìn xa nhỉ?
+
+Thật ra tôi cũng thấy có chút 
+không thoải mái tại TED
+
+trong 2 ngày qua,
+
+vì có nhiều góc nhìn đang diễn ra, 
+đúng không?
+
+Tôi không phải người 
+có tầm nhìn xa.
+
+Tôi không có kế kế hoạch 5 năm.
+
+Tôi là một kĩ sư.
+
+Và tôi nghĩ thật ra -
+
+ý tôi là - tôi hoàn toàn 
+vui vẻ với mọi người
+
+những ai đang đi dạo và
+nhìn chăm chăm vào đám mây
+
+và nhìn lên những vì sao rồi nói rằng
+"Tôi muốn đi đến đó."
+
+Nhưng tôi lại nhìn mặt đất,
+
+và tôi muốn vá ổ gà 
+ngay trước mặt tôi
+
+trước khi tôi té vào đó.
+
+Đây chính là con người của tôi.
+
+(Hoan hô)
+
+(Vỗ tay)
+
+Và tuần trước anh đã 
+nói với tôi về 2 chàng trai.
+
+Họ là ai và anh liên hệ với họ
+bằng cách nào?
+
+À, điều này khá là sáo rỗng 
+trong công nghệ,
+
+cả Tesla hay Edison,
+
+nơi Tesla được xem như nhà khoa học 
+vừa hiểu biết sâu sắc vừa điên rồ.
+
+Và mọi người yêu mến Tesla.
+
+Ý tôi là, có nhiều người đặt tên
+công ti theo tên ông ấy.
+
+(Cười)
+
+Người khác tôi muốn nói đến đó là Edison,
+
+người được gắn mác xấu
+đối với khách bộ hành
+
+và là -
+
+ý tôi là, câu nói nổi tiếng của ông là,
+
+"Thiên tài chiếm 1% cảm hứng 
+và 99% cực nhọc."
+
+Tôi nằm trong
+đội của Edison,
+
+thậm chí nếu mọi người 
+không thích ông.
+
+Vì nếu bạn thật sự so sánh cả hai,
+
+Tesla có sự nắm bắt nhanh nhạy hiện nay,
+
+nhưng ai thật sự làm thay đổi thế giới?
+
+Edison không hẳn là một người tốt đẹp gì,
+
+nhưng ông đã là nhiều việc -
+
+ông có lẽ không phải người trí thức,
+
+nên không có tầm nhìn xa.
+
+Nhưng tôi nghĩ tôi thích Edision 
+hơn Tesla.
+
+Chủ đề tại TED tuần này
+là những giấc mơ -
+
+ước mơ lớn, 
+táo bạo, dữ dội.
+
+Anh thật sự không thích chuyện đó.
+
+Tôi đang cố bình tĩnh chút đây.
+
+Vậy tốt rồi.
+
+(Cười)
+
+Chúng tôi ủng hộ bạn, 
+ủng hộ bạn.
+
+Nhiều công ti như Google 
+và công ti khác cũng cho rằng
+
+kiếm được hàng tỉ đô la 
+từ phần mềm của anh.
+
+Anh có thấy phiền không?
+
+Không hề.
+
+Không đâu, tôi không buồn lòng
+vì những lí do đó.
+
+Và một lí do đó là, tôi đang làm tốt.
+
+Tôi thật sự làm rất tốt.
+
+Nhưng lí do khác là -
+
+ý tôi là, không dùng mã nguồn mở 
+và giải phóng mọi thứ,
+
+Linux sẽ không như ngày hôm nay.
+
+Và điều này đem lại những trải nghiệm 
+tôi không thích nói ra chút nào,
+
+nhưng vào lúc đó, đó lại là 
+một trải nghiệm.
+
+Tin tôi đi.
+
+Có nhiều thứ đang diễn ra khiến tôi 
+trở thành một người đàn ông hạnh phúc
+
+và tự nghĩ tôi đã đưa ra 
+những lựa chọn đúng đắn.
+
+Ý tưởng về mã nguồn mở -
+
+tôi nghĩ chúng ta 
+sẽ dừng ở đây -
+
+ý tưởng mã nguồn mở có hoàn toàn 
+được thế giới công nhận,
+
+hay còn nhiều thứ phải xem xét lại,
+
+có nhiều thứ cần phải cân nhắc?
+
+Tôi còn đắn đo một chút.
+
+Tôi nghĩ một nguyên nhân mã nguồn mở 
+hoạt động hiệu quả
+
+chính là vào cuối ngày,
+
+mật mã có xu hướng 
+chuyển sang màu trắng đen.
+
+Cách này thường hiệu quả 
+trong việc đưa ra quyết định,
+
+liệu nó được tiến hành hoàn hảo hay không.
+
+Mật mã có hoạt động tốt hay không,
+
+nghĩa là sẽ có ít cuộc tranh luận 
+về vấn đề này.
+
+Và chúng ta có nhiều cuộc tranh luận 
+dù cho có lí do, đúng không?
+
+Ở nhiều lĩnh vực khác -
+
+ý tôi là, nhiều người bàn về mã nguồn mở
+và nhiều thứ tương tự vậy -
+
+và thật sự có nhiều lúc rất khó nói
+
+đúng, bạn có thể áp dụng công thức
+tương tự trong vài lĩnh vực khác.
+
+chỉ vì màu trắng và đen không chỉ 
+chuyển sang màu xám,
+
+mà là những màu sắc khác nhau.
+
+Nên, mã nguồn mở trong khoa học rõ ràng 
+là đang quay trở lại.
+
+Khoa học đã có mặt trước.
+
+Nhưng sau đó khoa học đã đến khá gần,
+
+với những bài báo đắc giá 
+và vài thứ khác đang diễn ra.
+
+Và mã nguồn mở đang 
+quay trở lại ngành khoa học,
+
+với những thứ như arXiv 
+và những tập san công khai.
+
+Wikipedia cũng đã thay đổi cả thế giới.
+
+Còn nhiều ví dụ khác,
+
+tôi chắc chắn có
+nhiều thứ cần bàn.
+
+Nhưng anh không có tầm nhìn xa,
+
+nên không tùy thuộc 
+anh đặt tên cho chúng.
+
+Không phải vậy.
+
+(Cười)
+
+Tùy các bạn tạo ra chúng thế nào, 
+đúng chứ?
+
+Chính xác.
+
+Linus Torvalds,
+
+cảm ơn Linux, cảm ơn Internet.
+
+cảm ơn các chiếc điện thoại Android.
+
+Cảm ơn đã đến với TED 
+và buổi chia sẻ của bản thân.
+
+Cảm ơn.
+
+(Vỗ tay)
+
