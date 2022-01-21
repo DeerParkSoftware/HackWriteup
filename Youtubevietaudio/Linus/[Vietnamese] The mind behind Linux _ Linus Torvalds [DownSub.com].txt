@@ -1,1144 +1,211 @@
-Translator: Phuong Quach
-Reviewer: Michelle Nguyen
-
-Thật là một việc kì lạ.
-
-Phần mềm Linux nằm trong 
-hàng triệu máy tính,
-
-cực kỳ phổ biến trên mạng Internet.
-
-Và tôi nghĩ rằng
-
-có khoảng hơn một tỷ rưỡi
-thiết bị Android đang hoạt động.
-
-Phần mềm của anh có mặt
-trong tất cả chúng, từng chiếc một.
-
-Thật đáng ngạc nhiên.
-
-Anh chắc phải sở hữu trụ sở chính
-chuyên thiết kế phần mềm để làm điều đó.
-
-Đó là điều tôi từng nghĩ,
-và tôi bị sốc khi thấy bức tranh này.
-
-Ý tôi là, đây là -
-
-đây là trụ sở toàn cầu của Linux.
-
-(Cười)
-
-(Vỗ tay)
-
-Linus Torvalds: Không giống những gì
-anh tưởng tượng lắm.
-
-Và tôi phải nói,
-
-điểm thú vị nhất trong bức tranh này,
-
-điều hầu như ai cũng để ý tới,
-
-là chiếc bàn biết đi này.
-
-Đây là điều thú vị nhất 
-trong văn phòng của tôi
-
-và thật ra tôi không còn dùng nó nữa.
-
-Và tôi nghĩ có hai thứ liên quan.
-
-Cách tôi làm việc...
-
-Tôi không muốn nhận 
-kích thích từ bên ngoài.
-
-Bạn có thể thấy, trên các bức tường
-là ánh sáng màu xanh.
-
-Tôi được biết là các viện tâm thần
-gắn nó trên các bức tường.
-
-(Cười)
-
-Nó tương tự một màu trầm,
-
-đây không phải điều thật sự động viên bạn.
-
-Điều bạn không thể thấy là máy tính ở đây,
-bạn chỉ có thể thấy màn hình,
-
-nhưng điều tôi lo lắng chủ yếu là 
-chiếc máy tính của mình -
-
-nó không có lớn và không có mạnh,
-dù tôi thích như vậy -
-
-thật không có gì để bàn.
-
-Tôi biết nhiều người làm việc cho Google
-
-và họ có trung tâm dữ liệu riêng 
-tại nhà mình,
-
-và tôi không làm vậy.
-
-Văn phòng của tôi là nơi chán nhất
-mà bạn từng gặp.
-
-Và tôi ngồi đây một mình trong yên lặng.
-
-Nếu con mèo chạy ngang,
-
-nó sẽ nhảy lên đùi tôi.
-
-Và tôi muốn nghe tiếng kêu của nó,
-
-không phải âm thanh 
-của chiếc quạt trong máy tính.
-
-Điều này thật là lạ,
-
-vì làm việc theo kiểu này,
-
-anh có thể mở cả một đế quốc
-công nghệ to lớn -
-
-đây là một đế chế -
-
-nên đó là bằng chứng đáng ngạc nhiên
-về năng lượng của mã nguồn mở.
-
-Hãy kể chúng tôi nghe cách 
-anh hiểu về mã nguồn mở
-
-và cách nó dẫn tới 
-sự phát triển của Linux.
-
-Ý là tôi vẫn 
-làm việc một mình.
-
-Thật ra - tôi làm việc tại nhà của mình,
-
-tôi thường mặc áo choàng tắm.
-
-Khi một nhà nhiếp ảnh đến, 
-tôi được lên hình,
-
-nên tôi mặc quần áo vào.
-
-(Cười)
-
-Và đó là cách làm việc của tôi.
-
-Đây cũng là cách 
-tôi thành lập Linux.
-
-Tôi không thành lập Linux 
-như một dự án hợp tác.
-
-Tôi bắt đầu là vì nó là 
-một trong chuỗi dự án
-
-có lúc tôi từng làm cho riêng mình,
-
-một phần vì tôi cần 
-kết quả cuối cùng,
-
-mà thậm chí còn vì 
-tôi chỉ thích lập trình.
-
-Cho nên đây là chặng cuối 
-của cuộc hành trình,
-
-mà, 25 năm sau, chúng tôi 
-vẫn chưa đạt được.
-
-Nhưng thật ra là tôi đang tìm 
-một dự án cho riêng mình
-
-và thật ra không hề có 
-mã nguồn mở trên máy ra-đa.
-
-Và điều xảy ra là...
-
-dự án tiến triển và trở thành thứ 
-mà anh muốn khoe với mọi người.
-
-Thật ra, chuyện là "Chà, hãy xem 
-những gì tôi đã làm!"
-
-Tin tôi đi - sau đó
-chuyện cũng không khá lên là mấy.
-
-Tôi đã công bố cho mọi người,
-
-và lúc đó còn không có mã nguồn mở nữa.
-
-Lúc đó, mã nguồn đã được mở, 
-nhưng không có mục đích
-
-sau khi dùng phương pháp mã nguồn mở
-mà chúng ta nghĩ ngày nay
-
-để cải thiện nó.
-
-Dường như là,
-
-"Nhìn xem, tôi từng
-nghiên cứu được nửa năm,
-
-tôi thích xem những lời bình luận."
-
-Và những người khác đã tiếp cận tôi.
-
-Tại trường đại học Helsinki,
-
-tôi có người bạn - 
-một trong những mã nguồn mở -
-
-sau đó nó được gọi là 
-"phần mềm miễn phí" -
-
-và cậu ấy đã giới thiệu cho tôi 
-quan điểm đó, nè,
-
-anh có thể dùng những bản quyền 
-mã nguồn mở xung quanh.
-
-Và tôi từng có suy nghĩ.
-
-Thật ra tôi lo lắng về 
-những lợi ích thương mại tổng thể.
-
-Ý tôi là, đó là một trong những lo lắng 
-tôi nghĩ hầu hết mọi người đều mắc phải,
-
-đó là họ lo ai đó lợi dụng 
-công việc của mình, đúng không?
-
-Và tôi đã quyết định, 
-"Nó là cái quái gì vậy?"
-
-Và -
-
-Và đôi khi,
-
-ai đó đóng góp mật mã mà anh nghĩ,
-
-"Chà, điều đó thật thú vị, 
-tôi sẽ không nghĩ về nó nữa.
-
-Điều này có thể cải thiện được."
-
-Thậm chí nhiều người đóng góp mật mã
-còn chưa bắt đầu,
-
-hơn nữa những người đó 
-bắt đầu đóng góp ý kiến.
-
-Và thật ra chỉ là ai đó khác nữa
-chỉ nhìn vào dự án của bạn -
-
-và tôi chắc chắn đây cũng đúng 
-với những điều khác,
-
-nhưng hoàn toàn là thật theo luật -
-
-chính là ai đó khác nữa 
-có hứng thú với mật mã của bạn,
-
-nhìn nó cũng đủ để cho anh đưa phản hồi
-
-và cung cấp ý tưởng cho anh.
-
-Đó là chuyện lớn đối với tôi.
-
-Lúc đó tôi 21 tuổi, nên tôi vẫn còn trẻ,
-
-nhưng cơ bản thì tôi đã 
-lập trình cho nửa đời mình,
-
-Và mỗi dự án trước đó 
-hoàn toàn liên quan cá nhân
-
-và đó là sự phát hiện khi nhiều người 
-vừa mới bắt đầu bình luận.
-
-bắt đầu đưa phản hồi về mật mã của anh.
-
-Và thậm chí trước khi họ 
-bắt đầu trả lại mật mã,
-
-tôi nghĩ đó là một khoảnh khắc 
-tuyệt vời tôi từng kể,
-
-"Tôi yêu mọi người!"
-
-Đừng hiểu lầm tôi -
-
-TôI không phải 
-người vì mọi người.
-
-(Cười)
-
-Tôi thật sự không yêu mọi người -
-
-(Cười)
-
-Nhưng tôi yêu máy tính,
-
-tôi thích tương tác 
-với người khác qua email,
-
-vì nó cung cấp bộ đệm cho bạn.
-
-Nhưng tôi yêu những người đưa ra lời bình
-và tham gia vào dự án của tôi.
-
-Và còn nhiều hơn thế nữa.
-
-Vậy có lúc nào anh thấy những gì 
-đang được xây dựng
-
-và đột nhiên bị trì hoãn,
-
-và bạn nghĩ, "Chờ một chút, 
-chắc có cái gì đó khổng lồ,
-
-không chỉ là dự án cá nhân 
-mà tôi nhận phản hồi tích cực,
-
-mà còn là một sự phát triển đột ngột
-trong thế giới công nghệ?
-
-Không hẳn là vậy.
-
-Ý tôi là, điều quan trọng đối với tôi, 
-thật ra, không phải chuyện lớn lao,
-
-mà chỉ là chuyện nhỏ mà thôi.
-
-Điều quan trọng là tôi không có một mình
-
-và có 10, có lẽ 100 người tham gia -
-
-đó mới là điều quan trọng.
-
-Và những chuyện khác thì 
-từng bước từng bước một.
-
-Từ 100 người lên đến 1 triệu người 
-không phải là vấn đề lớn - với tôi.
-
-À, ý tôi là, có lẽ nếu anh là -
-
-(Cười)
-
-Nếu anh muốn bán kết quả 
-thì đó là chuyện lớn đó -
-
-đừng hiểu lầm tôi.
-
-Nhưng nếu anh quan tâm đến công nghệ
-
-và anh có hứng thú với dự án,
-
-chủ yếu là hút 
-sự chú ý của công chúng.
-
-Và cộng đồng sẽ
-dần dần phát triển.
-
-Và thật ra đây không chỉ là 
-một vấn đề mà tôi đề cập,
-
-"Chà, chỉ là bắt chước thôi!" bởi vì nó -
-
-ý tôi là - gần như phải 
-mất một khoảng thời gian.
-
-Những chuyên gia công nghệ 
-mà tôi đề cập thật sự có uy tín
-
-với việc thay đổi hoàn toàn 
-công việc của họ.
-
-Và đó không phải là Linux,
-
-mà nó có tên gọi là Git,
-
-một hệ thống quản lí dành cho 
-sự phát triển phần mềm.
-
-Hãy kể ngắn gọn với chúng tôi
-chuyện đó và vai trò của anh.
-
-Vấn đề mà chúng tôi gặp phải,
-
-và điều này mất một lúc 
-mới bắt đầu xuất hiện,
-
-là khi anh...
-
-Khi anh tăng từ 10 người hoặc 100 người 
-làm việc trong một dự án,
-
-lên đến 10 000 người, mà -
-
-ý tôi là, lúc này chúng tôi chỉ 
-tập trung vào nhân của hệ điều hành,
-
-chúng tôi có 1 000 người tham gia 
-trong từng bộ phận.
-
-và diễn ra mỗi 2 tháng, 
-khoảng 2 hay 3 tháng.
-
-Có vài người không làm nhiều như vậy.
-
-Có nhiều người có 
-những sự thay đổi nho nhỏ.
-
-Nhưng để duy trì điều này,
-
-cán cân thay đổi cách anh 
-phải bảo dưỡng nó.
-
-Và chúng tôi đã phải 
-trải qua nhiều đau đớn.
-
-Và có nhiều dự án chỉ tập trung
-bảo trì mã nguồn mở.
-
-CVS là thứ từng được 
-sử dụng phổ biến nhất,
-
-và tôi cực kì ghét CVS 
-và từ chối chạm vào nó
-
-và thử vài thứ khác 
-mang tính cơ bản và thú vị.
-
-và những người khác cũng ghét.
-
-(Cười)
-
-Và chúng tôi nằm trong tình trạng xấu,
-
-nơi chúng tôi có hàng ngàn người 
-muốn tham gia vào,
-
-nhưng thử nhiều cách khác nhau,
-tôi lại là người hay ngừng giữa chừng,
-
-nơi tôi không thể cân bằng đến điểm
-
-mà tôi có thể làm việc 
-cùng hàng ngàn người.
-
-Git là dự án lớn thứ hai của tôi,
-
-chỉ được tạo ra để tiếp nối 
-dự án lớn đầu tiên của tôi.
-
-Và đây mới thật sự là 
-cách làm việc của tôi.
-
-Tôi không viết mật mã -
-
-à, tôi viết chỉ vì vui mà thôi -
-
-nhưng tôi muốn giải mã 
-thứ gì đó có ý nghĩa
-
-nên những dự án tôi từng làm 
-là thứ mà tôi cần
-
-và -
-
-Vậy thật ra, cả Linux và Git mới xuất hiện
-
-gần như là hậu quả khó đoán trước được
-
-trong mong muốn không phải 
-làm việc với quá nhiều người.
-
-Hoàn toàn chính xác.
-
-(Cười)
-
-CA: Thật là ngạc nhiên.
-LT: Uh.
-
-(Vỗ tay)
-
-Tuy nhiên, anh là người 
-đã chuyển giao công nghệ,
-
-không chỉ 1 
-mà những 2 lần,
-
-và chúng tôi phải cố gắng 
-tìm hiểu nguyên nhân.
-
-Anh từng đưa vài dẫn chứng, nhưng
-
-Đây là ảnh hồi còn nhỏ của anh, 
-với khối vuông rubic.
-
-Anh nói rằng bạn từng lập trình 
-khi anh chỉ mới 10 hay 11 tuổi,
-
-nửa cuộc đời anh.
-
-Anh là thiên tài máy tính, 
-anh biết đó, übernerd,
-
-bạn là ngôi sao trường học 
-có thể làm mọi thứ?
-
-Lúc nhỏ bạn trông thế nào?
-
-À, tôi nghĩ tôi là mọt sách chính hiệu.
-
-Ý tôi là, tôi là...
-
-Và tôi không phải người vì mọi người.
-
-Đó là em trai của tôi.
-
-Thật ra tôi có hứng thú 
-với khối vuông rubic hơn.
-
-hơn em trai tôi.
-
-(Cười)
-
-Em gái tôi, không có trong bức hình này,
-
-khi chúng tôi họp mặt gia đình -
-
-tuy không phải một gia đình lớn 
-nhưng tôi cũng có vài người bà con -
-
-em ấy sẽ giúp tôi chuẩn bị trước.
-
-Trước khi tôi bước vào phòng, em ấy nói,
-
-"Được rồi. Chúng ta tiến hành
-như vầy như vầy..."
-
-Vì tôi không phải -
-
-tôi là một kẻ nhàm chán.
-
-Tôi đam mê máy tính,
-
-tôi thích Toán,
-
-tôi yêu Vật Lí,
-
-tôi giỏi về các môn đó.
-
-Tôi không nghĩ mình 
-là người đặc biệt gì cả.
-
-Em gái tôi rõ ràng có nói,
-
-ưu điểm đặc biệt nhất của tôi 
-đó là tôi sẽ không từ bỏ.
-
-Được rồi, chúng ta bàn vấn đề này,
-vì nó rất thú vị.
-
-Anh sẽ không từ bỏ.
-
-Không phải chuyện về
-sự nhàm chán hay thông minh,
-
-mà là về...sự cố chấp?
-
-Đúng là về sự cố chấp.
-
-Đó là chuyện, như là,
-
-vừa mới bắt đầu
-
-và không có nói rằng, "Được, tôi xong rồi,
-hãy làm gì đó khác đi -
-
-Nhìn kìa: sáng bóng quá!
-
-Và tôi cũng có chú ý đến nhiều phần khác 
-trong cuộc sống của mình.
-
-Tôi sống trong thung lũng Silicon 
-khoảng 7 năm.
-
-Và tôi cũng làm việc cho công ti 
-tương tự thung lũng Silicon,
-
-suốt một khoảng thời gian.
-
-Tôi chưa nghe chuyện đó.
-
-Chuyện không phải cách hoạt động
-của thung lũng Silicon.
-
-Điểm tổng thể của thung lũng Silicon
-đó là những người nhảy việc
-
-rồi đến những người xáo trộn công ti.
-
-Và đó không phải con người của tôi.
-
-Nhưng suốt quá trình 
-phát triển thật sự của Linux,
-
-thỉnh thoảng sự ngoan cố khiến anh
-phải cãi nhau với những người khác.
-
-Hãy nói một chút về điều đó.
-
-Có cần thiết để duy trì chất lượng 
-của những gì đã được gầy dựng hay không?
-
-Anh sẽ mô tả chuyện đã 
-diễn ra như thế nào?
-
-Tôi không biết điều đó 
-có cần thiết không.
-
-Quay lại với chuyện "Tôi không phải 
-người vì mọi người," -
-
-thỉnh thoảng tôi cũng...
-
-chúng ta có thể nói,
-
-"cận thị" khi diễn ra với cảm giác
-của những người khác,
-
-và thỉnh thoảng khiến bạn phải 
-thốt lên lời làm tổn thương người khác.
-
-Và tôi không tự hào về điều đó.
-
-(Vỗ tay)
-
-Nhưng, cùng lúc đó, đó là -
-
-tôi hiểu những người "
-hay nói tôi là người tử tế.
-
-Và khi tôi cố gắng giải thích với họ 
-rằng có lẽ bạn tử tế,
-
-có lẽ bạn nên táo bạo hơn,
-
-họ thấy rằng tôi cũng không hề tử tế.
-
-(Cười)
-
-Điều tôi muốn nói là
-chúng ta khác biệt nhau.
-
-Tôi không phải người vì mọi người;
-
-không phải điều tôi 
-lấy làm tự hào cho lắm,
-
-nhưng đó là một phần trong tôi.
-
-Và một trong những điều tôi 
-thật sự thích về mã nguồn mở
-
-chính là nó thật sự cho phép 
-mọi người làm việc cùng nhau.
-
-Chúng ta không phải thích nhau -
-
-thỉnh thoảng chúng ta cũng
-không hề thích nhau.
-
-Thật ra ý tôi là, có rất rất nhiều 
-cuộc tranh luận sôi nổi.
-
-Nhưng thật ra bạn có thể, 
-bạn có thể tìm thấy -
-
-thậm chí bạn không thể 
-đồng ý hay bất đồng,
-
-chỉ là bạn quan tâm nhiều thứ khác nhau.
-
-Và quay lại điều mà tôi đề cập trước đó
-
-tôi lo sợ những người buôn bán 
-lợi dụng công việc của bạn,
-
-hóa ra là, một cách nhanh chóng,
-
-những người buôn bán đó là những người 
-đáng yêu dễ mến.
-
-Và họ đã làm mọi thứ
-tôi không hề có hứng thú tham gia,
-
-họ có những mục tiêu hoàn toàn khác nhau.
-
-Và họ đã dùng mã nguồn mở theo cách 
-mà tôi không muốn làm chút nào.
-
-Vì đây là mã nguồn mở 
-nên họ có thể làm được,
-
-có thể cùng nhau 
-phối hợp một cách hoàn hảo.
-
-Và tôi cũng nghĩ nó
-hoạt động tương tự.
-
-Anh cần có quan hệ giữa người với người,
-những người truyền đạt,
-
-vừa ấm áp vừa thân thiện
-
-những người như là -
-
-(Cười)
-
-thật sự muốn ôm lấy bạn 
-và giúp bạn hòa nhập cộng đồng.
-
-Nhưng không phải ai cũng vậy.
-
-Và đó không phải là tôi.
-
-Tôi quan tâm đến công nghệ.
-
-Có nhiều người quan tâm về UI.
-
-Tôi không thể tạo UI để kiếm sống.
-
-Ý tôi là, nếu tôi bị mắc kẹt 
-trên một hòn đảo
-
-và cách duy nhất để thoát khỏi hòn đảo 
-là tạo một giao diện UI đẹp
-
-tôi sẽ chết tại đây.
-
-(Cười)
-
-Nên có nhiều loại người khác nhau,
-
-và tôi không phải biện hộ 
-mà là cố gắng giải thích.
-
-Điều chúng ta 
-nói trong tuần trước,
-
-anh đã nói về một vài 
-chân dung khác mà anh có,
-
-tôi rất hứng thú với điều đó.
-
-Ý tưởng này là 
-khiếu thẩm mĩ.
-
-Và tôi vừa mới có vài hình ảnh đây.
-
-Tôi nghĩ đây là một ví dụ về 
-khiếu thẩm mĩ không tốt trong mã nguồn,
-
-và cái này có khiểu thẩm mĩ tốt hơn,
-
-cái mà chúng ta có thể lập tức nhìn thấy.
-
-Sự khác biệt giữa hai bức ảnh này là gì?
-
-Và đây là -
-
-Có bao nhiêu người thật sự có mật mã?
-
-Ôi Chúa ơi.
-
-Tôi đảm bảo với anh,
-
-những người giơ tay lên,
-
-họ đã từng tạo ra cái gọi là 
-danh sách liên kết đơn.
-
-Và nó chỉ cho chúng ta -
-
-Trước tiên không phải 
-cách tiếp cận khiếu thẩm mĩ tốt,
-
-đây cơ bản là cách nó tiến hành 
-khi anh bắt đầu giải mã.
-
-Và anh không phải hiểu mật mã này.
-
-Điều thú vị nhất đối với tôi
-
-là phần mệnh đề "Nếu" cuối cùng.
-
-Vì điều diễn ra trong 
-danh sách liên kết đơn -
-
-nó đang cố gỡ bỏ danh mục
-còn tồn tại trong danh sách -
-
-và có một sự khác biệt giữa liệu 
-đây là danh mục đầu tiên
-
-hay đây là danh mục ở giữa.
-
-Vì nếu đây là danh mục đầu tiên,
-
-bạn phải thay đổi con trỏ 
-tới danh mục đầu tiên.
-
-Nếu là danh mục ở giữa,
-
-bạn phải thay đổi con trỏ 
-đến danh mục trước nó.
-
-Chúng là 2 trường hợp 
-hoàn toàn khác biệt.
-
-Cái đó tốt hơn.
-
-Cái này tốt hơn.
-
-Nó không có mệnh đề "nếu".
-
-Và điều này thật sự không quan trọng -
-
-tôi không muốn anh hiểu tại sao
-nó không có mệnh đề "nếu",
-
-nhưng anh muốn hiểu
-
-thỉnh thoảng anh có thể gặp 
-một vấn đề theo cách khác
-
-và biên tập lại để 
-tình huống đặc biệt biến mất
-
-rồi trở thành tình huống bình thường.
-
-Và đó là một mật mã tốt.
-
-Nhưng đây là mật mã đơn giản.
-
-Đây là CS 101.
-
-Cái này không quan trọng - mặc dù, 
-chi tiết rất quan trọng.
-
-Đối với tôi, dấu hiệu từ một người 
-mà tôi thật sự muốn hợp tác
-
-chính là họ có khiếu thẩm mĩ tốt, 
-cái mà...
-
-Tôi đã gửi anh
-một ví dụ ngớ ngẩn
-
-cái đó không liên quan vì nó quá nhỏ.
-
-Khiếu thẩm mĩ tốt lớn hơn nhiều.
-
-Khiếu thẩm mĩ tốt là về 
-cái nhìn những mẫu lớn
-
-và đại loại như tự mình biết
-cái nào là cách làm đúng.
-
-Được rồi, giờ chúng ta đang ghép
-các mảnh lại với nhau.
-
-Anh có khiếu thẩm mĩ,
-
-mà có ý nghĩa với những người
-thiết kế phần mềm.
-
-Anh là chiếc máy tính -
-
-(Cười)
-
-Tôi nghĩ mọi người có mặt ở đây 
-thật ý nghĩa.
-
-Anh là một người giải mã máy tính
-cực kì thông minh,
-
-và anh cũng cứng đầu kinh khủng.
-
-Nhưng chắc phải có 
-gì đó khác.
-
-Ý tôi, anh sẽ 
-thay đổi tương lai.
-
-Anh chắc là có khả năng 
-thấy trước tương lai.
-
-Anh là người nhìn xa nhỉ?
-
-Thật ra tôi cũng thấy có chút 
-không thoải mái tại TED
-
-trong 2 ngày qua,
-
-vì có nhiều góc nhìn đang diễn ra, 
-đúng không?
-
-Tôi không phải người 
-có tầm nhìn xa.
-
-Tôi không có kế kế hoạch 5 năm.
-
-Tôi là một kĩ sư.
-
-Và tôi nghĩ thật ra -
-
-ý tôi là - tôi hoàn toàn 
-vui vẻ với mọi người
-
-những ai đang đi dạo và
-nhìn chăm chăm vào đám mây
-
-và nhìn lên những vì sao rồi nói rằng
-"Tôi muốn đi đến đó."
-
-Nhưng tôi lại nhìn mặt đất,
-
-và tôi muốn vá ổ gà 
-ngay trước mặt tôi
-
-trước khi tôi té vào đó.
-
-Đây chính là con người của tôi.
-
-(Hoan hô)
-
-(Vỗ tay)
-
-Và tuần trước anh đã 
-nói với tôi về 2 chàng trai.
-
-Họ là ai và anh liên hệ với họ
-bằng cách nào?
-
-À, điều này khá là sáo rỗng 
-trong công nghệ,
-
-cả Tesla hay Edison,
-
-nơi Tesla được xem như nhà khoa học 
-vừa hiểu biết sâu sắc vừa điên rồ.
-
-Và mọi người yêu mến Tesla.
-
-Ý tôi là, có nhiều người đặt tên
-công ti theo tên ông ấy.
-
-(Cười)
-
-Người khác tôi muốn nói đến đó là Edison,
-
-người được gắn mác xấu
-đối với khách bộ hành
-
-và là -
-
-ý tôi là, câu nói nổi tiếng của ông là,
-
-"Thiên tài chiếm 1% cảm hứng 
-và 99% cực nhọc."
-
-Tôi nằm trong
-đội của Edison,
-
-thậm chí nếu mọi người 
-không thích ông.
-
-Vì nếu bạn thật sự so sánh cả hai,
-
-Tesla có sự nắm bắt nhanh nhạy hiện nay,
-
-nhưng ai thật sự làm thay đổi thế giới?
-
-Edison không hẳn là một người tốt đẹp gì,
-
-nhưng ông đã là nhiều việc -
-
-ông có lẽ không phải người trí thức,
-
-nên không có tầm nhìn xa.
-
-Nhưng tôi nghĩ tôi thích Edision 
-hơn Tesla.
-
-Chủ đề tại TED tuần này
-là những giấc mơ -
-
-ước mơ lớn, 
-táo bạo, dữ dội.
-
-Anh thật sự không thích chuyện đó.
-
-Tôi đang cố bình tĩnh chút đây.
-
-Vậy tốt rồi.
-
-(Cười)
-
-Chúng tôi ủng hộ bạn, 
-ủng hộ bạn.
-
-Nhiều công ti như Google 
-và công ti khác cũng cho rằng
-
-kiếm được hàng tỉ đô la 
-từ phần mềm của anh.
-
-Anh có thấy phiền không?
-
-Không hề.
-
-Không đâu, tôi không buồn lòng
-vì những lí do đó.
-
-Và một lí do đó là, tôi đang làm tốt.
-
-Tôi thật sự làm rất tốt.
-
-Nhưng lí do khác là -
-
-ý tôi là, không dùng mã nguồn mở 
-và giải phóng mọi thứ,
-
-Linux sẽ không như ngày hôm nay.
-
-Và điều này đem lại những trải nghiệm 
-tôi không thích nói ra chút nào,
-
-nhưng vào lúc đó, đó lại là 
-một trải nghiệm.
-
-Tin tôi đi.
-
-Có nhiều thứ đang diễn ra khiến tôi 
-trở thành một người đàn ông hạnh phúc
-
-và tự nghĩ tôi đã đưa ra 
-những lựa chọn đúng đắn.
-
-Ý tưởng về mã nguồn mở -
-
-tôi nghĩ chúng ta 
-sẽ dừng ở đây -
-
-ý tưởng mã nguồn mở có hoàn toàn 
-được thế giới công nhận,
-
-hay còn nhiều thứ phải xem xét lại,
-
-có nhiều thứ cần phải cân nhắc?
-
-Tôi còn đắn đo một chút.
-
-Tôi nghĩ một nguyên nhân mã nguồn mở 
-hoạt động hiệu quả
-
-chính là vào cuối ngày,
-
-mật mã có xu hướng 
-chuyển sang màu trắng đen.
-
-Cách này thường hiệu quả 
-trong việc đưa ra quyết định,
-
-liệu nó được tiến hành hoàn hảo hay không.
-
-Mật mã có hoạt động tốt hay không,
-
-nghĩa là sẽ có ít cuộc tranh luận 
-về vấn đề này.
-
-Và chúng ta có nhiều cuộc tranh luận 
-dù cho có lí do, đúng không?
-
-Ở nhiều lĩnh vực khác -
-
-ý tôi là, nhiều người bàn về mã nguồn mở
-và nhiều thứ tương tự vậy -
-
-và thật sự có nhiều lúc rất khó nói
-
-đúng, bạn có thể áp dụng công thức
-tương tự trong vài lĩnh vực khác.
-
-chỉ vì màu trắng và đen không chỉ 
-chuyển sang màu xám,
-
-mà là những màu sắc khác nhau.
-
-Nên, mã nguồn mở trong khoa học rõ ràng 
-là đang quay trở lại.
-
-Khoa học đã có mặt trước.
-
-Nhưng sau đó khoa học đã đến khá gần,
-
-với những bài báo đắc giá 
-và vài thứ khác đang diễn ra.
-
-Và mã nguồn mở đang 
-quay trở lại ngành khoa học,
-
-với những thứ như arXiv 
-và những tập san công khai.
-
-Wikipedia cũng đã thay đổi cả thế giới.
-
-Còn nhiều ví dụ khác,
-
-tôi chắc chắn có
-nhiều thứ cần bàn.
-
-Nhưng anh không có tầm nhìn xa,
-
-nên không tùy thuộc 
-anh đặt tên cho chúng.
-
-Không phải vậy.
-
-(Cười)
-
-Tùy các bạn tạo ra chúng thế nào, 
-đúng chứ?
-
-Chính xác.
-
-Linus Torvalds,
-
-cảm ơn Linux, cảm ơn Internet.
-
-cảm ơn các chiếc điện thoại Android.
-
-Cảm ơn đã đến với TED 
-và buổi chia sẻ của bản thân.
-
-Cảm ơn.
-
-(Vỗ tay)
-
+Thư viện chủ nghĩa Mác Trung Quốc-> Mao Trạch Đông
+Bản ghi lại cuộc nói chuyện giữa Mao Đồng chí Mao Trạch Đông và Mao Đồng chí Hồ Chí Minh
+
+(chưa được xem lại bởi chính tôi)
+
+(10 tháng 6 năm 1966)
+
+
+
+　　Địa điểm: Hàng Châu
+　　Khi nào: 10 tháng 6 năm 1966
+　　Người tham gia: Kang Sheng, Wu Xiuquan, Jiang Qing
+　　Người dịch: Liang Feng
+　　Ghi: Wenzhuang
+
+
+　　Hồ Chí Minh (sau đây gọi tắt là Bác Hồ): Tôi nghĩ cơ thể bạn tốt hơn năm ngoái.
+　　Mao Trạch Đông: (Sau đây gọi là Mao Đồng chí): Bác Hồ, cháu nghĩ bác có thể sống từ 150 đến 200 tuổi.
+　　Bác Hồ: Nhiều quá.
+　　Mao Đồng chí: Tôi gần như năm nay và năm sau.
+　　Bác Hồ: Chúng tôi không cho phép, cũng như không đồng ý với điều đó.
+　　Mao Đồng chí: Bởi vì chúng tôi ở Trung Quốc nói 73, 84. Tôi sẽ 73 tuổi vào năm tới. Chuyện này buồn.
+　　Bác Hồ: Không hẳn.
+　　Chủ tọa: Diêm Vương không mời, tôi tự đi. Du Fu có một bài thơ rằng:
+　　“Nợ rượu ở đâu cũng thường, nhưng bảy mươi năm cuộc đời mới hiếm”. Với điều đó đã nói, tôi cũng chết tiệt. Bạn không được bao gồm bởi vì bạn sẽ chiến đấu với Mỹ.
+　　Hồ: Các đồng chí Trung Quốc cũng muốn chống lại Hoa Kỳ.
+　　Chủ tọa: Tôi sắp đánh, anh không cho phép tôi đi. hãy để tôi đi? Không chỉ ra Bắc, vào Nam đi đường mòn Hồ Chí Minh.
+　　Bác Hồ: Không đảm bảo.
+　　Chủ tọa: Chết ở Trung Quốc và được chôn ở Trung Quốc không giống như chết ở Việt Nam và được chôn ở Việt Nam? Bạn không cần phải chết ở Trung Quốc. Thật tuyệt khi bị Mỹ giết.
+　　Bác Hồ: Bạn có thể đi bộ bao nhiêu trong một ngày?
+　　Chủ tọa: Bắt đầu đi bộ 10 km, đi bộ 20 km vào tuần thứ hai và đi bộ 30 km vào tuần thứ ba.
+　　Bác Hồ: Địch đã chú ý đến đường mòn Hồ Chí Minh và thường xuyên bị máy bay B52 ném bom.
+　　Chủ tọa: Khi máy bay đến, tôi trốn trong rừng.
+　　Bác Hồ: Tôi muốn đến Thanh Hóa và Ngee Ann, nhưng họ không cho tôi đi.
+　　Chủ tọa: Không đúng. nên đi. Hãy đi cùng nhau, đi theo con đường của bạn, và đi về phía nam. Để chết, chúng ta chết cùng nhau.
+　　Bác Hồ: Tôi đi đây. Chúng tôi đã xin ý kiến ​​riêng của các đồng chí, nhưng họ không đồng ý.
+　　CHỦ TỊCH: Đừng hỏi ý kiến. Đã đi bằng ô tô vào một đêm và rời đi.
+　　Bác Hồ: Dù tôi đi đâu, các đồng chí ở phòng thủ cũng sẽ theo tôi.
+　　Chủ tọa: Giống như tù nhân, không có tự do. Người Pháp nói "Hãy tự do hoặc chết".
+　　Hồ: Nếu Mao Mao Đồng chí muốn thăm Việt Nam, chúng tôi hoan nghênh tất cả mọi người, miễn là có thể. Do máy bay địch thường xuyên bị ném bom nên nếu yêu cầu thấp, xin hãy ra phía Bắc gần Hà Nội xem thử. Chờ cho đến khi tôi trở lại để thảo luận với Bộ Chính trị của chúng tôi.
+　　Mao Đồng chí: Tôi không nói với người khác, tôi không nói với đất nước, tôi chỉ lẩn đi và bỏ đi mà ngay cả các bạn cũng không biết.
+　　Bác Hồ: Tôi xin lỗi, hãy để tôi nói điều này: Tôi e rằng đây là ảo ảnh.
+　　Mao Đồng chí: Đó là chủ nghĩa tự do, không phải tưởng tượng. Tôi cũng muốn đến Châu Phi. Tại sao nên làm cuộc cách mạng ở Trung Quốc, hãy ra nước ngoài để xem và học hỏi một số kinh nghiệm.
+　　Bác Hồ: Tôi e rằng nó sẽ không xảy ra.
+　　Chủ tọa: Anh luôn tạt gáo nước lạnh vào tôi.
+　　Bác Hồ: Theo kinh nghiệm ít ỏi của mình thì nó là như thế này.
+　　Mao Đồng chí: Không phải ở miền nam cũng như ở miền bắc của ông, chưa một thủ lĩnh lớn nào bị giết. Hầu hết những người chúng tôi đến đó đều ở cấp trung đoàn, và một chính ủy trung đoàn đã bị giết. Đó là anh ấy không có kinh nghiệm. Với kinh nghiệm này, các cán bộ chính không bao giờ bị giết nữa. Ở phía nam, bạn không hề nghe nói về bất kỳ thương vong nào giữa các cán bộ cấp trung đoàn và sư đoàn.
+　　Bác Hồ: Rất ít, rất ít.
+　　Chủ tọa: Nhưng trước năm 1959, sau năm 1954, sau Hiệp định Giơnevơ, các năm 1955, 56, 57, 58, 59, rất nhiều người đã chết. Có 160.000 người. Có rất nhiều hay không, tôi không biết. Chính Wu Tingyan đã giết nó. Các cuộc cách mạng bị giết chết. đã giết rất nhiều người. Lúc đó anh em đã sơ tán sạch sẽ và rút về phía bắc, chỉ để lại một tiểu đội với vỏn vẹn bốn năm khẩu súng. Tôi đã nói với đồng chí Fan Wentong rằng Hiệp định Geneva là một thất bại, bạn và chúng tôi đều đã mắc sai lầm. Điều này sai lầm đã giáo dục chúng tôi và phải trả giá bằng 160.000 người, và sau đó bắt đầu với một lớp học và dần dần phát triển. Hiện tại có bao nhiêu người, hơn 200.000 người?
+　　Bác Hồ: Với du kích, có hơn 200.000.
+　　Chủ tọa: Có bao nhiêu kẻ thù?
+　　Bác Hồ: Có gần 300.000 quân Mỹ và hơn 500.000 quân ngụy.
+　　Mao Đồng chí: Tổng cộng hơn 800.000.
+　　Bác Hồ: Nói chung. Hoa Kỳ đang tăng dần quân số của mình.
+　　Mao Đồng chí: Vậy còn bạn? Anh ta có 800.000, bạn có nhiều hơn 300.000?
+　　Bác Hồ: Có thể. Bộ đội chính quy gồm bảy sư đoàn, ngoài ra mỗi tỉnh có một đến hai tiểu đoàn, mỗi quận có một đến hai đại đội, còn có dân quân du kích.
+　　Chủ tọa: Từ xưa đến nay, kẻ thiếu kinh nghiệm luôn đánh bại những đội quân giàu kinh nghiệm; kẻ không có súng đánh bại kẻ có súng, kẻ ít người đánh bại nhiều người. Bạn không giống nhau sao? Có bao nhiêu bạn ở đó vào thời điểm Cách mạng Tháng Tám?
+　　Bác Hồ: Có hơn 5.000 đảng viên và quân số không nhiều.
+　　Mao Đồng chí: Tôi e rằng quân của ông lúc đầu chỉ có vài trăm người, sau đó sẽ lên đến hàng nghìn người. Có phải bạn đã làm giúp chúng tôi cho đến năm 1927? Lúc bấy giờ, có hàng chục triệu công nhân, nông dân nước ta, có tổ chức công đoàn và hội nông dân. Nông dân có Lực lượng Phòng vệ Nông dân, công nhân có thợ săn. Nhưng kẻ thù đã không chuẩn bị để giết. Đến nửa đầu năm 1927, bốn tháng làm việc, tất cả chúng đều bị xóa sổ. Tương tự như tình hình ở Indonesia bây giờ. Trong 50.000 đảng viên chỉ còn chưa đến 10.000 đảng viên, và chỉ còn lại hai trong số 10 đảng viên. Bốn vạn người kia đã đi đâu? Một nhóm bị giết; một nhóm đầu hàng; một nhóm lớn bỏ cuộc, quá sợ hãi, không dám di chuyển và rời khỏi bữa tiệc; và tám hoặc chín nghìn người tiếp tục làm việc. Tôi buộc phải đến Lương Sơn. Trước khi chúng tôi không chuẩn bị chiến đấu, chúng tôi đang dạy tiểu học. Vào năm đó, anh buộc phải đến Lương Sơn. Bảy và tám trận chiến, trong mười năm, một số trận thua, và hầu hết chúng đều thắng. Quân đội đã tăng lên 300.000 người, bao gồm cả những người theo đảng phái đã hết sản xuất. Tuy nhiên, đường lối cơ hội của “Cánh tả” đã bị bắt gặp ba lần trong vòng mười năm. Lần đầu tiên là Qu Qiubai; lần thứ hai là Li Lisan và Xiang Zhongfa; lần thứ ba là Wang Ming. Kết quả là chiến dịch bao vây phản công lần thứ năm thất bại. Vào thời điểm đó, những người trong chúng tôi đã bị loại khỏi quân đội. Tôi đã bị “khai trừ” khỏi đảng một lần và ra khỏi quân đội ba lần. Trên thực tế, ông đã bị khai trừ khỏi Bộ Chính trị của Ủy ban Trung ương, có tin đồn rằng ông đã bị khai trừ khỏi đảng và trở thành một nhà dân chủ. Tôi là bí thư Tĩnh Cương Sơn, bí thư đặc khu ủy, chi bộ không được tham gia. Họ tìm mọi cách để uốn nắn tôi, sau này nói thầy có thể là thầy. Vậy đó, tôi đã là một nhà dân chủ hơn nửa năm rồi. Sau đó, người ta biết rõ rằng anh ta không bị khai trừ khỏi đảng, mà đã trở thành một đại biểu của đảng và một chính ủy. Đó là năm 1928. Họ nói rằng những sai lầm tôi mắc phải, thứ nhất là tôi đốt ít nhà hơn; thứ hai, tôi giết ít người hơn; thứ ba, lời nói của tôi sai. Họ gửi thông báo khắp nơi, nói rằng tôi là một kẻ cơ hội "Cánh tả", và sức mạnh đó có thể thoát ra từ nòng súng. Vài lần sau, tôi bị đồng đội không hiểu và đuổi tôi ra khỏi Hồng quân. Khi những người dân thường, làm công việc địa phương, ở Phúc Kiến. Lúc đó đồng chí Lâm Bưu cùng tham gia đồng ý với tôi. Anh ấy ở trong đội do Zhu De dẫn dắt, và đội của anh ấy đã hỗ trợ tôi. Đội Riot Thu hoạch Mùa thu của riêng tôi đã thay thế tôi. Những người mà tôi đã có một mối quan hệ lâu dài đã thay thế tôi, và những người mà tôi không biết nhiều đã ủng hộ tôi. Bạn thấy đấy, có lạ không?
+　　Bác Hồ: Thế giới đầy những điều kỳ diệu.
+　　Mao Đồng chí: Bạn có kinh nghiệm này không? Bạn đang trên đường trở thành người lãnh đạo của bữa tiệc ngay từ đầu.
+　　Bác Hồ: Bạn nói đúng, tôi đã thuận buồm xuôi gió và không vấp phải sự phản đối nào.
+　　Chủ tọa: Bạn có phước lành của Marx. Bạn có nhiều chủ nghĩa Mác hơn tôi.
+　　Bác Hồ: Tôi không thừa nhận điều đó.
+　　Mao Đồng chí: Tại sao mọi người không phản đối bạn?
+　　Bác Hồ: Chúng ta là một đảng nhỏ, một đất nước nhỏ, và một đội quân nhỏ. Các lãnh đạo khác của đảng và quân đội trẻ hơn tôi, đó cũng là một lý do.
+　　Chủ tọa: Bạn là một cựu chiến binh, điều này cũng có một nhược điểm, bạn chưa phải chịu thất bại hay kinh nghiệm.
+　　Bác Hồ: Vâng.
+　　Chủ tọa: Mọi người gọi bạn là "Hoan hô". Tôi khác với bạn.
+　　Bác Hồ: Bởi vì điều này, bạn có rất nhiều kinh nghiệm.
+　　Chủ tọa: Nhiều lần nó đã đánh gục tôi. Một lần ở Giang Tây, tôi đã thắng trong chiến dịch chống "bao vây và đàn áp" lần thứ nhất, thứ hai, thứ ba hoặc thứ tư, nhưng nói rằng tôi đã mắc sai lầm, rằng tôi luôn đi theo đường lối cơ hội cực hữu, và không hề có dấu vết của Chủ nghĩa Mác - Lê nin. Cái gì cũng được, không có gì cả. Họ nghĩ họ theo chủ nghĩa Mác-Lê nin 100%. Nói rằng tôi đánh nhau cũng là cơ hội. Họ nói rằng các thành phố lớn nên bị tấn công, nhưng tôi thì không. Ví dụ, nếu bây giờ bạn không chống lại các thành phố lớn, đó là chủ nghĩa cơ hội của cánh hữu. Bạn chiến đấu, và khi người khác tấn công, bạn phải rút lui. Bây giờ trong số 800.000 kẻ thù của bạn, chỉ 200.000 có thể cơ động; 600.000 còn lại phải bảo vệ đường cao tốc, sân bay, cảng biển và các thành phố lớn và nhỏ. Lúc này, bạn sẽ chiến thắng.
+　　Bác Hồ: Để báo cáo với anh, bây giờ chúng tôi có một số tiểu đoàn xung quanh Sài Gòn.
+　　Chủ tọa: Nhưng đừng đi Sài Gòn và Đà Nẵng. Các thủ phủ khác của tỉnh cũng tạm thời bị loại trừ. Chiếm người khác để phục hồi, và sau đó phải chạy ra ngoài.
+　　Bác Hồ: Bây giờ chúng ta có một loại lực lượng đặc biệt, đó là loại lực lượng đi vào thành phố để chống lại đại sứ quán Mỹ và sân bay. Chúng tôi sẽ không tấn công các thành phố lớn ngay bây giờ.
+　　Mao Đồng chí: Điều này là tốt. Thỉnh thoảng ra vào cũng hay, như chơi ở Đà Nẵng. Vì đồng bào của các anh, các hàng rào kẽm gai, chiến hào,… đã bị phá hủy. Hàng trăm người đi vào và tấn công bất ngờ; pháo binh bắn ra bên ngoài. Vài giờ sau, hàng trăm người trở lại. Tốt quá. Chúng tôi đã chơi nhiều lần trước đây. Khi một số thị trấn nhỏ bị xâm chiếm, có thể thu thập được nhiều thông tin, bao gồm cả báo chí và thư viện của kẻ thù; cũng có thể mở rộng nguồn quân thêm vài nghìn người trong vài ngày. Ví dụ, chúng tôi đã chơi Ji'an ở Giang Tây. Ta có 3 vạn người, còn địch chỉ có một lữ đoàn, vài vạn người. Chúng tôi ở lại trong 10 ngày, và chúng tôi mở rộng quân đội của mình thêm 10.000 hoặc 20.000 quân. Sau đó, chúng tôi cũng chơi Chương Châu ở Phúc Kiến. Tôi đã đi với Lin Biao. Sau khi tiêu diệt một sư đoàn địch, anh ta nhận được rất nhiều vũ khí và đạn dược; anh ta cũng nhận được rất nhiều giày cao su từ Trần Gia Cát, một nhà tư bản Hoa kiều lớn ở Singapore kinh doanh cao su; sách. Tại sao Quốc dân đảng có sách về chủ nghĩa Mác - Lê-nin? Họ cũng có nó trong thư viện của họ, cho nghiên cứu của chúng tôi. Chẳng hạn như “Nhà nước và cách mạng” của Lenin, “Hai sách lược của nền dân chủ xã hội trong cuộc cách mạng dân chủ”, cũng như địa lý kinh tế thế giới, lịch sử phát triển xã hội, lịch sử triết học Deborin, v.v.
+　　Tôi quen thuộc với Deborin. Stalin chỉ trích ông ta là một người Menshevik. Ông không đồng ý với Stalin, cũng như với Lenin, người đã khởi xướng một giai đoạn triết học mới. Khi ông 80 tuổi, Khrushchev đã trao tặng huy chương cho ông. Đã chết cách đây vài năm. Những người chỉ trích Deborin trong quá khứ giờ đã trở thành những người theo chủ nghĩa xét lại, chẳng hạn như Midin, Eugene, Rosenthal và những người khác. Chủ nghĩa xét lại cũng đang nổi lên ở Trung Quốc. Peng Zhen, Luo Ruiqing, Lu Dingyi và Yang Shangkun đều là bạn của bạn, cũng như của tôi. Không phải bạn hỏi, chúng ta đã biết trước rồi sao? Chúng tôi biết nó. Peng Zhen đã mắc một loạt sai lầm, và tôi đã phải cách chức anh ta vài năm trước và để đồng chí Wan Xiaotang từ Thiên Tân thay thế anh ta. Đồng chí Chu Ân Lai cũng đồng ý. Bắc Kinh là một vương quốc độc lập, và không ai có thể can thiệp. Còn tệ hơn cả Hà Nội của bạn. Tôi không thể can thiệp, đồng chí Lưu Thiếu Kỳ không thể can thiệp, đồng chí Chu Ân Lai không thể can thiệp, đồng chí Đặng Tiểu Bình không thể can thiệp. Đối với câu hỏi của Luo Ruiqing, khi Bành Đức Hoài được tái tổ chức vào năm 1959, có người đề nghị ông nên làm tham mưu trưởng, và một số người trong chúng tôi không đồng ý. Sau đó, người đồng chí đề nghị ông làm trưởng ban đã bị ông phạt tổng cộng 6 năm tù. Người nhắc tới anh ta là cấp trên của anh ta, và bây giờ anh ta đang lần lượt trừng phạt anh ta. Tôi khuyên bạn rằng không phải tất cả người của bạn đều trung thành với bạn. Những người trung thành có thể chiếm đa số, nhưng một thiểu số nhỏ có thể chỉ gọi bạn bằng lời là "Hoan hô" và thực sự mong bạn chết sớm. Khi anh ấy gọi bạn là “muôn năm” thì bạn phải để ý và phân tích, càng khen ngợi bạn càng trở nên không đáng tin, đây là quy luật tự nhiên. Một bên không chia tách? Không phải là trở lại. Mọi thứ được chia thành hai (Sự chia một thành hai). Điều này không phải do tôi phát minh ra, nó được phát minh bởi Lenin. Phát minh của tôi là gì? Rõ ràng đó là những gì Lenin đã nói trong Ghi chép triết học của mình. Lê-nin không nói đến ba nguyên lý của phép biện chứng. "Sự thống nhất của các mặt đối lập", "sự chuyển hóa lẫn nhau về chất", "phủ định của phủ định" được Marx và Engels sao chép từ Hegel, chủ yếu là của Engels, chứ không phải của Lenin. Ông cho rằng, sự thống nhất của các mặt đối lập là cốt lõi của phép biện chứng, nhưng nó cần được giải thích và phát huy. Anh ấy không có thời gian để giải thích và chơi đùa. Chúng tôi tuân theo những nguyên tắc của Lê-nin và không tuân theo ba nguyên tắc. Stalin đã vi phạm các nguyên tắc của Lenin và ban hành 4 nguyên tắc gọi là "sự kết nối", "sự chuyển hóa lẫn nhau về chất", "sự phát triển" và "sự thống nhất của các mặt đối lập". Chúng tôi cũng không nghe Stalin. Chúng tôi tin vào Lê-nin. Tôi chỉ làm theo hướng dẫn của anh ấy để giải thích và chơi. Theo quy luật này, mọi thứ đều chia đôi, là sự thống nhất của các mặt đối lập. Mọi thứ luôn tồn tại hai mặt đối lập. Nếu đảng của bạn chỉ có sự thống nhất hoàn toàn và không có mặt đối lập, nó sẽ không phù hợp với thực tế. Các đảng phái trên toàn thế giới bị chia rẽ. Marx và Engels không ngờ rằng những người kế nhiệm họ là Bernstein và Kautsky sẽ trở thành những người chống lại chủ nghĩa Marx.Các đảng do họ sáng lập và lãnh đạo - Đảng Dân chủ Xã hội Đức, Đảng Xã hội Pháp, v.v., đều trở thành các đảng tư sản sau khi họ qua đời. Không để ý đến cái này thì khổ. Mặc dù Lenin dự kiến ​​rằng sẽ có các đảng đối lập như Zinoviev, Trotsky, Bukharin, v.v., nhưng phương pháp của ông không phải là giết người. Từ năm 1917 đến năm 1924, chưa đầy tám năm sau khi nắm quyền, Lenin qua đời. Trong thời gian này, ông chủ yếu tham gia vào lý thuyết. Công tác đoàn thể làm ít chứ không nhiều. Công tác nông dân không được thực hiện, chương trình của phong trào nông dân không được thực hiện. Trong Cách mạng Tháng Mười, chương trình Narodnik tạm thời được dùng làm chương trình Bolshevik. Tại cuộc họp của các đại biểu công nhân, nông dân và binh lính Xô Viết, Lê-nin cho rằng không nên thảo luận quá nhiều về chương trình này. Đảng dân túy không thể thực hiện chương trình riêng của mình, và đề xuất “về tay nhân dân” cũng sẽ không thực hiện được. Sau đó, phe dân túy trở thành phát ngôn viên của giới phú nông.
+　　Trước đây bạn đã nói rằng những sai lầm đã được thực hiện, rằng cải cách ruộng đất không nên được "Làm trái", và rằng nhiều người đã bị giết. Tôi nghĩ rằng có ít lần giết hơn. Bạn đã xuất bản "Nhân văn" và "Jiapin". Bạn sợ rằng quần chúng sẽ phản đối và yêu cầu chúng tôi cho hơi cay. "Nhân văn" và "Jiapin" chẳng qua là "Nhật báo Bắc Kinh" và "Tin tức buổi tối Bắc Kinh". Thế giới màu đen với những con quạ. Chỉ cần chúng ta hiểu được, chúng ta chuẩn bị, đại bộ phận toàn bộ đều chuẩn bị, không sợ hãi. Tất cả chúng tôi đều đã ngoài 70, và một ngày nào đó chúng tôi sẽ được Marx mời. Ai là người kế vị, Bernstein, Kautsky, hay Khrushchev, vẫn chưa được biết. Vẫn còn quá muộn để chuẩn bị. Tóm lại là chia làm hai phần, hiện tại đừng nhìn mấy người đang hô "Vạn tuế".
+　　Bác Hồ: Tôi đề nghị bạn nên nghỉ ngơi và để tôi báo cáo một số cuộc họp về Diên An. (Người phiên dịch đọc một bản sao của "Yan'an Brief") Tôi đã được công khai ở Diên An.
+　　Mao Đồng chí: Nhưng nó không xuất hiện trên báo. Bạn được chào đón ở khắp mọi nơi. Tôi hiểu rồi, một cuộc họp hàng vạn người sẽ được tổ chức ở đây để chào đón bạn. Được chứ? Tôi tất cả ở đó. Gửi một thông điệp nói rằng Mao Đồng chí Hồ đang ở Trung Quốc và đã đến Diên An và các thành phố khác, và được chào đón.
+　　Bác Hồ: Tôi phản đối.
+　　Chủ tọa: Tại sao lại phản đối. Người Trung Quốc thích người Việt Nam.
+　　Bác Hồ: Nó được xác định trong nước, và nó là bí mật để đi đến Trung Quốc. Ở Diên An là đặc biệt.
+　　Chủ tọa: Bạn không tuân thủ kỷ luật ở Diên An, nhưng bạn đã làm ở Hàng Châu?
+　　Bác Hồ: Ở Diên An, đồng chí Wu Xiuquan chịu trách nhiệm. Nếu tôi biết nó đã được thực hiện sớm hơn, tôi sẽ không chấp nhận nó, nhưng mọi người ở Diên An có biết về nó cũng không thành vấn đề.
+　　Mao Đồng chí: Tại sao điều quan trọng là phải biết ở đây? Chờ cho đến ngày hôm trước hoặc ngày bạn đi, có một đại hội, và bạn chạy.
+　　Bác Hồ: Cảm ơn bạn, nhưng tôi phản đối.
+　　Chủ nhiệm: Đồng chí Wu Xiuquan có thể quyết định, nhưng tôi không thể quyết định? Tôi vẫn cần nó. Có tin đồn rằng tôi đang ốm nặng. Tôi bị ốm nặng vào tháng Năm hoặc tháng Sáu năm ngoái. Tôi sẽ cảm thấy tốt hơn khi bạn đến Hàng Châu. Năm nay tốt hơn năm ngoái. Gửi tin nhắn rằng tôi vẫn chưa chết.
+　　Bác Hồ: Không gửi thì biết chưa chết. Bạn không thể chết. Tôi tiếp tục báo cáo về tình hình ở Diên An. Tôi đã đến thăm nhiều nơi và nó đã thay đổi rất nhiều. Tôi đã đến nơi bạn từng sống. Tôi đã gặp Yang Chengfu, cựu trưởng thôn của thị trấn Zaoyuan. Người dân Diên An rất nhớ bạn và mong bạn đi một lần. (Gửi ảnh cho Mao Mao Đồng chí xem).
+　　Chủ tọa: Bạn thấy đấy, tôi là một quan chức. Lần thứ hai bạn đi, tôi không đi sau khi tôi đi, nhưng tôi đã sống ở đó 12 năm.
+　　Bác Hồ: Người dân địa phương biết rằng tôi sẽ gặp Mao Mao Đồng chí và giao cho tôi nhiệm vụ phải chào ông. Họ không dám rủ bạn đi, nhưng nếu bạn đi, họ sẽ rất vui. Cá nhân tôi thấy rằng bạn có thể đi tốt. Thay đổi lớn.
+　　Mao Đồng chí: Tôi cũng muốn đi.
+　　Bác Hồ: Không chỉ thành phố thay đổi mà con người cũng thay đổi, đặc biệt là trẻ con, đứa nào đứa nấy đều béo và đỏ hỏn. Khi tôi mới đi có rất ít trẻ em, bây giờ chúng có ở khắp mọi nơi. Tôi cũng đã đến Đại học Diên An và nhìn thấy những thửa ruộng bậc thang. Tôi nhìn vào mảnh đất mà bạn đã trồng trước đây. Lần này họ yêu cầu tôi đưa cho bạn năm kg hạt kê trồng trên mặt đất.
+　　Chủ tọa: Bạn có kê ở đó không? Bạn có lúa mì, ngô, đậu, khoai lang không?
+　　Bác Hồ: Không có kê hoặc lúa mì. Có ngô, có đậu, có khoai, chúng tôi đã giới thiệu một loại gạo Nam Ninh, rất ngon.
+　　Chủ tọa: Thật tốt khi hoán đổi các giống.
+　　Bác Hồ: Bây giờ bốn tỉnh ở Trung Quốc đang giúp bảy tỉnh ở Việt Nam, chẳng hạn như Quảng Đông giúp đỡ tỉnh Quảng Ninh của chúng tôi, v.v.
+　　Chủ tọa: Giúp cái gì?
+　　Bác Hồ: Giúp sản xuất nông nghiệp, giữ nước, cải tạo giống lúa và gia súc, giúp thiết lập các nhà máy điện nhỏ và nhà máy, cải tiến nông cụ, v.v.
+　　Mao Đồng chí: Nhà máy luyện thép của bạn có đang hoạt động không?
+　　Bác Hồ: Quá trình sản xuất đã bắt đầu. Máy bay địch cũng đã bắt đầu ném bom gần đó.
+　　Chủ tọa: Bao nhiêu thép được sản xuất hàng năm?
+　　Bác Hồ: Rất ít, chưa có thiết bị cán.
+　　Mao Đồng chí: Bạn có mỏ than và mỏ sắt ở đó không? Cát sắt ở đâu ra? Bạn đi từ Trung Quốc?
+　　Bác Hồ: Việt Nam có than và sắt. Đến cả Trung Quốc nữa.
+　　Mao Đồng chí: Nếu không có thép và không có công nghiệp máy móc, đất nước sẽ không có một bộ công nghiệp hoàn chỉnh.
+　　Bác Hồ: Có lẽ bạn vẫn nhớ rằng tôi đã xây dựng nhà máy thép sau khi gặp bạn và với sự động viên của bạn.
+　　Mao Đồng chí: Tôi quan tâm nhất đến ngành thép và ngành máy móc.
+　　Bác Hồ: Các thiết bị và chuyên gia của Nhà máy thép Thái Nguyên của chúng tôi đều đến từ Trung Quốc.
+　　Mao Đồng chí: Bạn có thể bắt đầu nhỏ và phát triển dần dần. Nó có thể được thực hiện trong hàng chục năm hoặc lâu hơn. Các nhà máy cán nhỏ có thể được lấy từ Trung Quốc, và các công nghệ mới có thể được sử dụng để sản xuất thép. Chúng tôi đã bắt đầu luyện thép bằng oxy. Một số công nghệ mới cũng có thể được lấy từ Trung Quốc. Ban đầu, đừng vội vàng, làm quá, chúng ta đã phải chịu thiệt thòi vì vội vàng và làm quá nhiều, chúng ta đã thực hiện 1.700 công trình xây dựng cơ bản một năm. Nó không hoạt động trong một vài năm, và sau đó nó thu hẹp xuống còn hơn 700. Bạn thấy đấy, việc giảm 1.000 căn, một số căn đã hoàn thiện, những căn chưa hoàn thiện cơ sở hạ tầng chẳng khác nào bệnh phong. Lúc đó đó là tham lam lớn, tham nhiều, tham toàn thể. Thật tiếc khi bạn không đến Jinzhou để xem nó. Có rất nhiều ngành công nghiệp nhỏ ở đó. Không có kinh phí, cán bộ, công nhân mỗi người một ít tiền làm nhà nên dựng chòi rơm. Có rất nhiều sản phẩm mới ra ngay bây giờ. Một số nhà máy lớn rất lạc hậu như Gang thép An Sơn với 160.000 công nhân và sản lượng thép hàng năm từ 5 đến 6 triệu tấn, nhưng nó cũng có mặt lạc hậu. Ngoài ra còn có một số nhà máy nhỏ ở Thượng Hải, tôi nghe nói bạn đã nhìn thấy chúng. Tất cả các giám đốc, phó giám đốc, thư ký, kỹ sư, kỹ thuật viên của nhà máy đều không tách rời sản xuất và làm việc như công nhân. Những cái nào bạn đã thấy?
+　　Bác Hồ: Tôi không nhớ được, nhưng tôi thấy quy mô nhỏ, sản xuất gọn gàng, khoảng cách giữa cán bộ và công nhân không lớn. Theo họ, xưởng sản xuất tuy nhỏ nhưng thu nhập đang tăng lên từng ngày. Một số có hơn 300 công nhân.
+　　Mao Đồng chí: Thật tuyệt vời khi có hơn 100 công nhân. Các nhà máy điện toán lớn nhất thế giới có 30 người, sau đây là các nhà máy nhỏ và phía trên là các nhà máy lớn. Đây cũng là một mê tín dị đoan, mê tín có quy mô lớn và đầy đủ. Tôi không nghĩ rằng nó tốt hơn nhỏ. Hầu hết trong số họ phải là những nhà máy như vậy, và cũng có một số nhà máy lớn, chẳng hạn như Mỏ than Fushun. Ngoài ra, Trung Quốc có một kinh nghiệm là bố trí rất bất hợp lý, 70% ở ven biển và chỉ 30% trong nội địa, bây giờ chúng ta đã bước đầu di chuyển. Một xí nghiệp được chia thành hai xí nghiệp, một xí nghiệp được chia thành hai. Loại bỏ một nửa hoặc một phần ba.
+　　Bác Hồ: Việt Nam hiện đang chú ý đến các ngành công nghiệp địa phương ở mỗi tỉnh.
+　　Chủ tọa: Đúng vậy.
+　　Bác Hồ: Tất nhiên, nhỏ hơn của Trung Quốc.
+　　Mao Đồng chí: Nhỏ hơn là tốt hơn.
+　　Hừ: Nếu cuộc chiến diễn ra trong thời gian dài, mỗi địa phương có thể tự giải quyết vấn đề.
+　　Chủ tọa: Vâng. Ngành thủ công mỹ nghệ cũng cần chú ý.
+　　Bác Hồ: Ví dụ, tỉnh Quảng Bình của chúng ta hầu như ngày nào cũng bị máy bay địch ném bom, nhưng họ lại tự sản xuất xà phòng, bát, đĩa, diêm .... Chúng không được sản xuất trong nước trước đây.
+　　Chủ tọa: Bọn Pháp ác độc, chúng không để lại gì cho anh ngoài mỏ than Hòn Kei.
+　　Bác Hồ: Họ cũng tháo máy móc của Mỏ than Hongji; họ phá hủy những máy móc chưa được tháo gỡ và lấy đi các bản vẽ. Sau đó, Trung Quốc và các nước huynh đệ khác đã giúp chúng tôi sản xuất trở lại.
+　　Chủ tọa: Tôi nghe nói gần mỏ than có một nhà máy điện lớn, nó tạo ra bao nhiêu điện năng?
+　　Bác Hồ: Nhà máy điện Wangmi, tôi không nhớ chính xác nó tạo ra bao nhiêu điện. Tôi chỉ biết rằng nhà máy này cung cấp điện cho các mỏ, Hải Phòng và cả Hà Nội. Bây giờ, máy bay địch đã ném bom.
+　　Chủ tọa: Nếu Hà Nội và Hải Phòng bị ném bom thì sao?
+　　Bác Hồ: Chuyển đi nơi khác.
+　　Chủ tọa: Vâng. Chúng tôi đã di chuyển trong 22 năm. Từ 1927, đến 1937, 1947, chẳng phải là 20 năm sao? Tôi chỉ đến Bắc Kinh vào năm 1948 và 1949, chẳng phải 22 năm sao?
+　　Bác Hồ: Nếu máy bay địch ném bom Hà Nội, các cơ quan khác nhau sẽ dần dần di chuyển vào trong núi, giống như trong thời kỳ Kháng chiến chống Pháp. Bây giờ, nhà máy đã dần được chuyển đi.
+　　Chủ tọa: Tốt rồi.
+　　Bác Hồ: Trường học đã được giải tán, và các em đã được sơ tán khỏi Hà Nội.
+　　Chủ tọa: Dân số Hà Nội là bao nhiêu?
+　　Bác Hồ: 1,03 triệu, 500.000 tại Tp.
+　　Chủ tọa: Bây giờ còn lại bao nhiêu người?
+　　Bác Hồ: Chỉ có 150.000 người được sơ tán, hầu hết trong số họ là sinh viên và trẻ em, nhưng một số đã rời đi và quay trở lại.
+　　Chủ tọa: Chỉ để thả bom. Mọi người là như vậy, và chúng tôi đã bị ném bom và giết chết để lên núi. Trước sự khủng bố lớn của Tưởng Giới Thạch, tôi không nghĩ tới việc lên núi. Anh ấy đã giết, tôi nghĩ, và tôi vẫn còn hai chân và hai tay. Trước tiên, hãy thực hiện một số nghiên cứu và biết rằng bạn có thể đi bằng hai chân và cầm đồ vật bằng hai tay. Tôi chưa bao giờ bắn súng trong đời, chưa bao giờ bị thương. Tôi là một người lính, đó là vào năm 1911, tôi đã học súng trường, và đã từng là người hướng dẫn tiêu chuẩn cho các lớp học, trung đội, đại đội và tiểu đoàn. Huấn luyện viên tiêu chuẩn là đủ cho nửa năm, hoặc 3 tháng là đủ. Lúc đó nhà Thanh sắp xảy ra chiến sự, nhưng vì nam bắc thương nghị hòa hoãn nên chưa kết thúc. Tôn Trung Sơn không còn là tổng thống lâm thời, và Yuan Shikai là người duy nhất. Tôi đã đọc sách trong 13 năm. Tôi đọc sách của Khổng Tử trong 6 năm, vì vậy tôi có chế độ phong kiến ​​trong đầu, tôi đọc sách về chủ nghĩa tư bản trong 7 năm, vì vậy tôi cũng có chủ nghĩa tư bản trong đầu. Thật tốt khi coi đây là lịch sử, khi không có chủ nghĩa Mác-Lênin, chỉ có Washington, Napoleon, Cromwell.
+　　Hồ: Mao Đồng chí Mao đã đọc sách của Marx vào năm nào?
+　　Chủ tọa: Năm 1917, sau thắng lợi của Cách mạng Nga, một số tập sách nhỏ đã được xuất bản ở Trung Quốc. Chẳng hạn, trước thời điểm này, Tuyên ngôn Cộng sản đã được dịch, và Cuộc đấu tranh giai cấp của Kautsky cũng đã được dịch.
+　　Bác Hồ: Phong trào Mùng 4 tháng 5 diễn ra vào năm nào? Có phải là năm 1919 không?
+　　Chủ tọa: Vâng. Vào thời điểm của Phong trào ngày 4 tháng 5 năm 1919, không có Đảng Cộng sản ở Trung Quốc. Khi đó, tôi vừa học vừa làm ở Bắc Kinh, nơi có vị trí thấp nhất, chỉ 8 tệ mỗi tháng. Vào mùa đông, tôi trốn trong thư viện, nơi đã có hệ thống sưởi. Ăn bánh cừu hai lần một ngày.
+　　Bác Hồ: Lúc đó có phải là thời điểm của phong trào vừa học vừa làm không?
+　　Chủ tọa: Vâng. Tôi vừa làm điều này và đã gửi rất nhiều người đến đó.
+　　Hồ: Đồng chí Chu Ân Lai, Li Fuchun và những người khác đã đến Pháp vào thời điểm này.
+　　Chủ tọa: Vâng. Tôi rất cứng đầu. Tôi đã cử rất nhiều người ra nước ngoài, nhưng bản thân tôi không ra nước ngoài. Tôi không nghĩ rằng vấn đề của Trung Quốc đã được làm sáng tỏ. Tôi chỉ đến Moscow hai lần và tôi đã đến Anh - Hồng Kông.
+　　Các đồng chí ở Bắc Kinh đã nói với bạn rằng đảng của chúng tôi có 5 triều đại, người đầu tiên là Chen Duxiu, kéo dài 7 năm từ 1921 đến 1927. Sau đó, anh ta bỏ trốn và đến với những người theo chủ nghĩa Trotsky. Vương triều thứ hai là Qu Qiubai, người theo chủ nghĩa "tả khuynh" và chỉ làm việc trong ba hoặc bốn tháng. Tôi chỉ nói rằng tôi bị khai trừ khỏi Bộ Chính trị, và có tin đồn rằng tôi bị khai trừ khỏi đảng và trở thành một nhà dân chủ, cũng là vào thời điểm này. Vương triều thứ ba là Li Lisan và Xiang Zhongfa, sau vài tháng, họ rất "tả khuynh" và muốn tấn công các thành phố lớn. Vương triều thứ 4 là Vương Minh lâu nhất, trị vì 4 năm. Anh ta đã không đến căn cứ, nhưng người của anh ta đã đi. Năm khu căn cứ đều có người của anh ta; các khu vực do Quốc dân đảng cai trị cũng có người của anh ta; Bành Chân là thực hiện đường lối của Vương Minh. Vương triều thứ năm là Zhang Wentian. Peng Zhen, Luo Ruiqing và Lu Dingyi thuộc Quốc dân đảng.
+　　Bác Hồ: Trước đây họ có tham gia Quốc dân đảng không?
+　　Mao Đồng chí: Trong khoảng thời gian hợp tác giữa Quốc Dân Đảng và Đảng Cộng sản trong cuộc đại cách mạng đầu tiên, điều đó không được tính đến. Tôi cũng đã tham gia, và đảng đã yêu cầu chúng tôi tham gia. Đối với họ, không có bằng chứng chắc chắn, chỉ là một sự nghi ngờ. Tất cả họ đều làm việc trong các khu vực do Quốc dân đảng cai trị trong một khoảng thời gian.
+　　Bác Hồ: Có phải họ đã được Quốc dân đảng mua lại không?
+　　Mao Đồng chí: Peng Zhen đã bị Quốc dân đảng bắt giữ. Chúng tôi không biết bằng cách nào mà ông ta ra tay. Tại sao bọn họ lẻn vào bữa tiệc lâu như vậy mà không thấy? Chúng tôi đã phát hiện ra những sai lầm của họ. Ví dụ, Peng Zhen đã mắc sai lầm khi điều hành một trường đảng ở Diên An. Khi tôi còn ở Jinchaji, tôi cũng đã từng mắc sai lầm, điều này bây giờ mới được tiết lộ, và tôi không hề biết nó trong quá khứ. Nie Rongzhen biết rằng anh ta là chỉ huy và chính ủy của Jinchaji. Yang Chengwu cũng đến từ Jinchaji. Peng Zhen đến Jinchaji trong vòng chưa đầy hai năm, và thực hiện lộ trình của Wang Ming. Đường lối của Vương Minh lúc này khác với trong cuộc nội chiến 10 năm, trong cuộc nội chiến 10 năm, đường lối của Vương Minh là "tả khuynh" và chủ trương tấn công các thành phố lớn; trong thời kỳ Kháng chiến Chống Nhật xâm lược, của Vương Minh. dòng đã đúng và là chủ nghĩa đầu cơ. Sau đó, Vương Minh cũng bỏ trốn và đến Matxcova mà chúng tôi đã gửi. Anh ta vẫn viết bài dưới những cái tên giả dối để chửi bới chúng tôi. Ngoài ra, Zhang Guotao, khi đó là Ủy viên Cục Chính trị của Ủy ban Trung ương và là lãnh đạo của Phương diện quân thứ 4 của Hồng quân, hiện là một điệp viên Mỹ ở Hong Kong. Khi tôi còn ở Tĩnh Cương Sơn, chủ nhiệm Tổng cục Chính trị, chính ủy và bộ trưởng hậu cần kế nhiệm tôi đều đào ngũ sang Quốc dân đảng. Bạn thấy đấy, một số triều đại đều là những kẻ phản bội. Chen Duxiu đào tẩu, và Qu Qiubai đã viết thư đầu hàng sau khi bị bắt. Sau khi Xiang Zhongfa (thực ra là đường dây của Li Lisan) bị bắt, anh ta dẫn địch đi bắt người, sau khi địch bắt người thì cũng giết anh ta, điều này khá là ngu ngốc. Sau khi Vương Minh bị bắt, anh ta cũng trở thành kẻ phản bội. Anh ta đã bị bắt vài lần, và chúng tôi không biết làm thế nào anh ta được thả. Tại vùng Đông Bắc, ông bị quân Nhật bắt, ở Thượng Hải, ông bị Tưởng Giới Thạch bắt và được thả. Rao Shushi bị bắt khi đang ở trong Tập đoàn quân số 4 mới, nhưng không rõ bằng cách nào mà anh ta được thả. Bành Đức Hoài là người đứng đầu Quốc dân đảng, ông ta đã chiến đấu với chúng tôi, sau đó, ông ta suy đoán và mắc sai lầm dọc theo đường lối. Luo Ruiqing làm việc với Peng Dehuai. Peng Dehuai, Luo Ruiqing, Peng Zhen, Lu Dingyi, Yang Shangkun, bọn họ đều là một nhóm, tại sao lại để lộ ra lâu như vậy? Chúng tôi sẽ xem xét. Họ cũng giao tiếp với nước ngoài.
+　　Hừ: Ở lại không nguy hiểm sao?
+　　Chủ tọa: Rất nguy hiểm. Nhưng cho đến một cơ hội nào đó, chúng không bị lộ, và chúng tôi không cải chính chúng. Ví dụ như Bành Đức Hoài, người suốt ngày phạm sai lầm, chúng tôi chỉ biết phê bình và chỉ trích, nhưng anh ta lại ôm hận. Trong Chiến tranh Chống lại sự xâm lược của Hoa Kỳ và Viện trợ Triều Tiên, ông giữ chức vụ chỉ huy và sau khi trở về Trung Quốc, ông giữ chức Bộ trưởng Bộ Quốc phòng trong 7 năm. Hắn đã lấy đi bao nhiêu tướng quân? Chưa đến 10 tướng lĩnh và dân thường bị hắn bắt đi. Năm triều đại này đảng ta lãnh đạo không tốt thì cách mạng thất bại. Hai thất bại lớn: cuộc cách mạng dưới sự lãnh đạo của Chen Duxiu vào năm 1927 là một thất bại lớn; Cuộc hành quân kéo dài năm 1934, khi 300.000 quân trở thành 25.000, không phải là một thất bại? Nhưng đảng chưa bị khai trừ vẫn còn 25 vạn quân, sau 8 năm chống Nhật đã thành một triệu. Tại thời điểm này, chúng tôi có kinh nghiệm. Sau chủ nghĩa cơ hội đúng của Chen Duxiu, chủ nghĩa cơ hội "Cánh tả" của Vương Minh và ba chủ nghĩa cơ hội "Cánh tả" của Qu Qiubai và Li Lisan, chúng tôi có kinh nghiệm cho phép chúng tôi rút ra kết luận. Vì vậy, cảm ơn những người này đã giáo dục chúng tôi. Trước hết phải cảm ơn Quốc dân đảng và chủ nghĩa đế quốc. Thứ hai cảm ơn những kẻ cơ hội Cánh hữu, những kẻ cơ hội "Cánh tả" và những kẻ phản bội. Nếu không, chỉ riêng chủ nghĩa Mác không thể giáo dục chúng ta. Bây giờ, Hoa Kỳ đang giáo dục bạn, trước khi người Pháp giáo dục bạn, sau đó người Nhật đã giáo dục bạn, và sau đó người Pháp đã giáo dục bạn. Bạn không chỉ được giáo dục bởi sự áp bức của giai cấp phong kiến ​​Trung Quốc hàng nghìn năm. Khi đó, bản thân Trung Quốc bị áp bức, nhà Nguyên chinh phục Trung Quốc 100 năm nhưng không chinh phục được bạn, nhà Thanh chinh phục Trung Quốc 300 năm nhưng không chinh phục được bạn.
+　　Bác Hồ: Chúng tôi, những người viết lịch sử nói rằng nhà Nguyên của Trung Quốc đã thất bại trong việc chinh phục Việt Nam.
+　　Mao Đồng chí: Mông Cổ không chỉ chinh phục Trung Quốc, mà còn chinh phục Nga, Ấn Độ, đến tận Hungary, và chiếm toàn bộ Triều Tiên. Nó tấn công nhiều nơi hơn. Cuộc tấn công vào Nhật Bản không thành công, và khi gặp một cơn bão lớn trên biển, những người đổ bộ vào đất liền bị xóa sổ. Nhà Minh do Hán tộc thống trị, là hủ bại nhất, đã đàn áp nhân dân Trung Hoa rất dữ dội, xâm lược bạn ác liệt, nhưng không đạt được mục đích. Tôi đã đọc lịch sử của nhà Nguyên, quân Mông Cổ đã xâm lược bạn ba lần, và phương pháp của bạn rất tốt. Khi họ đến, bạn đi trước, và quân đội lên núi và xuống biển. Khi chúng chóng mặt, bạn chống trả và đập chúng xuống đất. Bạn đúng khi nói rằng người Trung Quốc đã xâm lược bạn. Người Mông Cổ không đủ, họ sử dụng người Hán. Nhà Nguyên đã chinh phục phương bắc trước, do đó, địa vị của người phương bắc cao hơn, và người phương nam được coi là không thể chạm tới. Các lãnh chúa phong kiến ​​không bao giờ làm việc thiện, và tất cả các dân tộc thiểu số đều phải gánh chịu hậu quả. Tuy nhiên, các dân tộc thiểu số cũng rất hùng mạnh. Sau đó đến các triều đại Nam và Bắc triều, và Bắc Ngụy, Bắc Tề và Bắc Chu đều là các dân tộc thiểu số. Sau đó, có Liao và Jin, cũng là những dân tộc thiểu số.
+　　Bác Hồ: Jin có phải là người Mông Cổ không?
+　　Chủ tọa: Không, Jin đến từ Jurchen, Liao đến từ Khitan. Dù sao, hãy gọi, hãy gọi. Sau đó, bọn đế quốc xâm lược bạn và chúng tôi. Kể từ sau Chiến tranh Nha phiến, đã có Lực lượng Đồng minh Anh-Pháp, Chiến tranh Trung-Pháp (ở Lạng Sơn của bạn, Trung Quốc bị thất bại), Lực lượng Đồng minh Bát cường chiếm đóng Bắc Kinh, v.v.
+　　Hồ: Quân Cờ đen của Lưu Vĩnh Phúc đã đến giúp chúng tôi chiến đấu.
+　　Chủ tọa: Đó là Liu Yongfu hay Feng Zicai?
+　　Bác Hồ: Feng Zicai đến từ Vân Nam; Liu Yongfu đến từ Quảng Tây.
+　　Mao Đồng chí: Như vậy Vân Nam và Quảng Tây đã trở thành vùng ảnh hưởng của Pháp.
+　　Bác Hồ: Và Vịnh Quảng Châu.
+　　Mao Đồng chí: Quảng Châu là một vùng ảnh hưởng của Anh. Khi đó, chủ nghĩa đế quốc Anh đã đánh bại Trung Quốc. Sự áp bức này cũng có lợi ích của nó. Chủ nghĩa đế quốc đã áp bức chúng tôi hơn 100 năm, và chúng tôi có kinh nghiệm. Giờ đây, Mỹ đang giáo dục bạn, người dân Đông Nam Á và người dân thế giới.
+　　Cuộc đấu tranh gần đây nhất của chúng tôi, bắt đầu vào tháng 11 năm ngoái, đã hơn bảy tháng. Ban đầu, Yao Wenyuan tấn công. Anh ấy là một thanh niên. Thảo luận về các vấn đề vô tội, v.v. Bạn không ủng hộ các quan chức trong sạch? Bạn nói rằng có những quan chức trung thực trên thế giới, nhưng tôi chưa bao giờ nhìn thấy họ. Không có quan chức và không có tham nhũng, chỉ có một số khác biệt, không có quan chức trung thực thực sự. Nếu một người muốn đến Bắc Kinh để tham gia kỳ thi tuyển bồi thẩm viên (ví dụ, Hải Thụy đến từ đảo Hải Nam), trước tiên, phải có một khoản phí. Thứ hai, khi đến Bắc Kinh, bạn cần tìm người và tặng quà. Nếu không có vài trăm lượng bạc, người ta không thể trở thành quan chức. Tiền ở đâu ra? Không có gì hơn những người thân và bạn bè cùng nhau đóng góp. Làm quan thì tham lam rồi trả nợ. Tôi có một người anh họ đã mất năm trước. Anh ta từng nói với tôi rằng một số người trong số họ đã làm bằng 50.000 lượng bạc để mua một cục trưởng thuế ở huyện Triều Dương, tỉnh Quảng Đông. Cục trưởng thuế cứ sáu tháng phải thay một lần, trong vòng nửa năm phải nhanh chóng lấy lại 50.000 lượng để trả nợ, theo cách này thì ít nhất phải trả 100.000 lượng. Tại sao một người Hoa Nam đến Quảng Đông lại có thể làm cục trưởng thuế? Bởi vì một trong những giáo viên của Chen Jiongming đến từ Hồ Nam và hỏi một số phụ nữ mỗi ngày, Chen Jiongming rất khó chịu với anh ta, và anh họ tôi đã đi theo con đường này. Tôi đặt tên anh ấy trong cuốn "Romance to the West" của Snow, và sau khi giải phóng, anh ấy đã cãi nhau với tôi. Anh ấy từng là một bao gia lâu, và anh ấy sẽ là sinh nhật ở tuổi 40. Tôi đã chỉ ra điều đó, và anh ấy ghét tôi đến chết. Bạn nói có những quan chức trung thực, tôi nói không cần. Tôi khác bạn ở điểm này. Đúng như Tôn Trung Sơn đã nói rằng chỉ có nghèo lớn và nghèo nhỏ, chỉ có lòng tham lớn, lòng tham vừa phải và lòng tham nhỏ trong các quan chức.
+　　Bác Hồ: Cha tôi đã trở thành một quan tòa, và ông ấy không hề tham lam.
+　　Chủ tọa: Không hẳn. Lúc đó anh vẫn còn trẻ, anh ấy tham lam với anh mà không biết điều đó. Khi thẩm phán quận là tuyệt vời.
+　　Bác Hồ: Sau vài tháng, anh ấy bị sa thải.
+　　Chủ tọa: Đó là bởi vì anh ấy không có thời gian để tham lam, khi anh ấy làm thẩm phán được một hai năm, tôi không nghĩ anh ấy quá tham lam hay tham lam.
+　　Kang Sheng: Không có quan chức nào mà không có tham nhũng, quan chức và tham nhũng không thể tách rời.
+　　Mao Đồng chí: Bây giờ chúng tôi không hiểu vấn đề của các quan chức và các quan chức tham nhũng, và chúng tôi đang tham gia vào cuộc Cách mạng Văn hóa. Tham gia vào giáo dục, văn học và nghệ thuật, học thuật, triết học, lịch sử, xuất bản và báo chí. Giới văn học và nghệ thuật được chia thành nhiều vòng, bao gồm vòng kịch, vòng điện ảnh, vòng tròn âm nhạc, vòng tròn nghệ thuật và vòng tròn điêu khắc; vòng tròn kịch nghệ được chia thành kinh kịch Bắc Kinh và hàng trăm vở opera địa phương.
+　　Trung Quốc cũng có tầng lớp được trả lương cao, và tôi là một trong số đó. Tôi nhận được 400 nhân dân tệ một tháng, tương đương với 80 đô la, bạn ít hơn tôi.
+　　Hủ: 240đ.
+　　Chủ tọa: Vì vậy, bạn là một quan chức trung thực. Bốn người chúng tôi, tôi, Lưu Thiếu Kỳ, Chu Đệ và Chu Ân Lai, được trả 400 nhân dân tệ mỗi tháng. Nhưng so với Mei Lanfang, mức lương của chúng tôi vẫn còn kém xa. Anh ấy có 2.000 nhân dân tệ mỗi tháng, và Zhou Xinfang cũng có hơn 1.000 nhân dân tệ mỗi tháng. Anh ấy hát Kinh kịch, hiện đang ở Thượng Hải; và Ma Lianliang.
+　　Bác Hồ: Nghe nói cô gái đường đỏ từng có hơn 1.000 tệ, sau này đòi giảm lương, bây giờ còn hơn 300 tệ.
+　　Mặc dù lương của tôi ít hơn của bạn, nhưng tôi hiện có hơn 10.000 tệ tiết kiệm mà tôi chưa dùng đến, đó là từ phí viết bản thảo.
+　　Chủ tọa: Bạn tham lam nhỏ nhen. Hiện tôi có 600.000 lệ phí bản thảo, khi nào đủ 1 triệu tôi sẽ giao lại cho trung ương. Thật là thái quá khi viết một bài báo và phải trả phí viết tay. Phí bản thảo cất vào ngân hàng còn có lãi suất, cứ bảy lượt tám lượt sẽ tăng lên, trở thành quan tham nhũng. Bạn có thể viết nhiều bài hơn.
+　　Bác Hồ: Tôi không viết quá nhiều bài, đó là tổng số tiền nhuận bút trong vài năm.
+　　Chủ tọa: Tôi không cần bất kỳ khoản phí viết tay nào trong số này. Tôi đang trên đà trở thành triệu phú và sắp bị đánh gục.
+　　Bác Hồ: Không có vấn đề gì với việc giao số tiền bản quyền này cho Đảng.
+　　Mao Đồng chí: Tôi muốn xem những khoản tiền bản quyền này xoay vòng như thế nào, với lãi suất hàng năm. Họ đang thực hiện lại các "trích dẫn" của tôi, và có thể có một khoản phí viết tay.
+　　Bác Hồ: Viết cho báo, báo đăng, bán lấy tiền. Nếu tôi không đưa tiền nhuận bút cho bạn thì số tiền đó cũng được chi vào các lĩnh vực khác, tốt hơn hết bạn nên lấy số tiền nhuận bút này trước rồi giao cho bên đó sau.
+　　Chủ tọa: Chẳng qua là hối lộ tôi. Trên thực tế đã mua. Mình dùng hết thì mua, không tính thì thôi. Tiền chưa dành cho công nhân và nông dân. Ai trong chúng ta không có ruộng đất và không làm việc.
+　　Hơ: Viết văn cũng là lao động trí óc.
+　　Chủ tọa: Đó là lao động trí óc, viết cho cách mạng và đảng, có cần tiền mua không? Tiền bản quyền sẽ được trả hết vào một ngày nào đó. Chúng tôi đang xem xét nối lại hệ thống cung cấp và quản lý công cộng đối với thực phẩm, chỗ ở, nước và điện. Người phục vụ của tôi, người đã từng có năm, bây giờ để lại một. Một nhà sư lấy nước để ăn, và ba nhà sư không có nước để ăn. Trước đây, có vài người làm theo ca, cứ ba ngày lại cãi nhau một lần. Bây giờ tôi đã mất một nửa số bác sĩ và y tá của mình. Khi tôi đi ra ngoài, họ ăn với tôi và không có gì để làm.
+　　Bác Hồ: Điều đó tốt hơn, nó có nghĩa là cơ thể bạn khỏe mạnh hơn.
+　　Mao Đồng chí: Tôi đã giao ước với họ rằng nếu bạn không bị sốt, bạn không cần đến bác sĩ. Tôi đã ngừng đo huyết áp 3 năm rồi, trước đây tôi cũng thường xuyên đo điện tâm đồ, nhưng giờ tôi không làm nữa. Bạn có một phái đoàn y tế đến Trung Quốc, và tôi đã nói chuyện với họ. Tôi đã nói rằng hệ thống y tế của Trung Quốc giống như Liên Xô, nó phục vụ một số lượng nhỏ người dân, nó tách biệt với số lượng lớn người dân, và ở nông thôn nó bị tách biệt với số lượng lớn nông dân. Bạn có biết không? Tôi đã nói rằng bạn không nên mê tín, điều này là sai ở Trung Quốc, và bây giờ nó đang thay đổi, từ phục vụ chủ sang phục vụ công nhân và nông dân. Tôi nghĩ rằng người nông dân có thể sống sót mà không cần bác sĩ.
+　　Bác Hồ: Họ làm việc rất nhiều và không khí rất tốt.
+　　Chủ tọa: Một số nông dân vẫn còn mê tín. Một số mê tín là chính đáng. Ta luôn thuận miệng xin xổ số lấy thuốc thần, một miếng thuốc cũng không giết được ai, thứ hai chỉ cần hai đồng. Uống thuốc thần bao giờ cũng tốt hơn mời chồng. Yêu cầu Langzhong ít nhất một trăm đồng và mời anh ta một bữa ăn không nhất thiết phải là bảo hiểm, và nó có thể giết người. Mẹ tôi bị bệnh nên tôi xin xổ số để lấy thuốc, được Chúa phù hộ nên can đảm mạnh mẽ, khỏi bệnh. Một năm nọ, cô ốm đến nỗi suýt chết, cô nguyện đến thánh địa Nanyue cầu trời, phải đi qua ba quận Xiangtan, Xiangxiang và Hengshan, cô phải quỳ lạy từng cái. ba bước, cầm một tấm gỗ trên tay. Bố tôi cũng đi, ông đi nhanh, tôi đi chậm. Tôi cũng tin vào Chúa và là một người hữu thần. Có thể bạn sinh ra là một người vô thần. Mẹ tôi đã dạy tôi phải có Chúa mỗi ngày. Cha tôi không tin vào Chúa, và tôi đã hợp nhất với mẹ tôi để chống lại ông ấy. Đến bao giờ bố tôi mới tin Chúa? Một đêm nọ, anh ta gặp hổ đang đi dạo, hổ nhảy xuống ruộng. Hổ sợ người, và người sợ hổ. Khi về đến nhà, anh ấy vô cùng sợ hãi và phát ốm. Từ đó, anh tin vào Chúa, và anh đã khỏi bệnh. Ông đã đi từ một người vô thần trở thành một người hữu thần. Anh ta phục vụ như một người lính của Zeng Guofan, sau đó anh ta có được một ít tiền và từ một nông dân nghèo trở thành một nông dân trung lưu, và sau đó trở nên giàu có. Anh ta có thể rất tham lam, anh ta không phải là quan chức, nhưng anh ta là một kẻ ham tiền. Anh ấy thường dạy tôi rằng: “Nếu bạn không làm bất cứ điều gì, thế giới sẽ bị hủy diệt”. Mẹ tôi thì tốt hơn, mặc dù bà tin Chúa nhưng bà không dạy tôi điều này. Sau khi hai người họ chết, đám đông cư xử khác nhau. Khi mẹ tôi mất, đám tang có hàng trăm người, khi bố tôi mất thì chỉ có vài chục người. Đám đông không thích cha tôi. Tôi có hai anh trai và một chị gái trong gia đình tôi. Chỉ có một người em theo cha, những người còn lại đứng về phía mẹ, tranh cãi mất đoàn kết. Tất cả hiện đã bị xóa sổ. Hai em trai, một em gái và một người vợ đều đã bị Quốc dân đảng giết chết, và tôi là người duy nhất còn lại. Gần đây, tôi nhận được một lá thư từ Cáp Nhĩ Tân, người đàn ông này nói rằng anh ta là chú rể của tôi trong tháng Ba dài. Anh ta nói rằng lúc đó tôi có hai con ngựa, một con màu đỏ và một con màu trắng; một lần tôi bị thương, chính anh ta đã cứu tôi. . Tôi không bị thương, chỉ có một con ngựa màu vàng, không đỏ cũng không trắng. Bây giờ, một số người viết tờ rơi để tung tin đồn. Anh ấy đã cứu tôi khi ai đó nói tôi đang ở đâu. Thực tế, có rất nhiều nơi tôi chưa từng đến. Vì vậy, “người sợ nổi tiếng, lợn sợ mạnh”, chẳng có gì phải tạo khi bạn nổi tiếng cả. Bây giờ mọi người đang cổ vũ cho tôi. Bạn đã mất rất nhiều thời gian.
+　　Hôm nay cháu mới ngủ được 2 tiếng, vì cháu có chuyện, cháu muốn gặp bác Hồ. Anh hỏi em đi ngủ lúc mấy giờ, em biết anh dậy lúc 5 giờ, à, hẹn em lúc 7 giờ. Hôm trước tôi ngủ 8 tiếng, hôm qua 8 tiếng, hôm nay 2 tiếng là đủ. Vào mùa hè, đôi khi tôi không ngủ trong vài ngày. Trong cuộc họp ở Lộc Sơn, tôi không ngủ, nói xong thì đi bơi, khi về thì lại nói, đó là việc của Bành Đức Hoài. Bây giờ, tôi chủ yếu đọc các áp phích có nhân vật lớn; báo chí cũng rất sống động. Các áp phích có nhân vật lớn rất mạnh mẽ, mang tính đại chúng và sức sống. Bạn có thể đến Đại học Chiết Giang để xem xét, vào ban đêm, bạn có thể cải trang và đeo khẩu trang để xem xét. Đây là một cách hay để vận động quần chúng chấn chỉnh bọn phản động.
+　　Bác Hồ: Tôi cũng đã đọc những tấm áp phích có nhân vật lớn ở Trung Quốc vào năm 1957.
+　　Chủ tọa: Lần này không có chuyên sâu và bao quát. Lần này, hàng trăm, hàng nghìn người, dù lớn hay nhỏ, có thể phải di dời, đặc biệt là các học viện, giáo dục, báo chí, xuất bản, văn học nghệ thuật, các trường đại học, trung học cơ sở, tiểu học. Vì lúc đó chúng tôi không có ai, nên chúng tôi nhận tất cả các thầy của Quốc dân đảng. Có rất ít giáo viên ở các trường tiểu học, trung học cơ sở và tiểu học, những người chạy báo, những người hát opera, những người viết tiểu thuyết, những người vẽ tranh và những người làm phim. Những người này đều đã lẻn vào bữa tiệc của chúng tôi. Bằng cách này, bạn biết sự thật của Cách mạng Văn hóa.
+　　Bác Hồ: Trung Quốc có nó, và Việt Nam cũng có. Trung Quốc đã làm được gì thì Việt Nam cũng phải làm, dù quy mô của Việt Nam nhỏ hơn. Tình hình ở Việt Nam cũng giống như ở Trung Quốc.
+　　Chủ tọa: Có lẽ đều giống nhau. Bạn cũng có giáo viên tiểu học, trung học cơ sở, đại học, những người này không phải đều là trí thức lão làng sao? Những người trong bữa tiệc cũng đến từ khắp nơi trên thế giới, và có đủ loại người. 80% đảng viên của chúng ta vào đảng sau năm 1949. Họ đã không trải qua bất kỳ sóng gió hay đấu tranh nào, một số tốt và một số xấu.
+　　Bác Hồ: Vậy là có những mâu thuẫn.
+　　Chủ tọa: Có nhiều xung đột, tôi có xung đột với nhiều người.
+　　Bác Hồ: Xét từ hoàn cảnh lịch sử mà bạn nói đến, vấn đề thực sự phức tạp.
+　　Chủ tọa: Cuộc đấu tranh rất phức tạp, nhưng đảng chưa bị diệt vong.
+　　Hồ: Sau khi nghe các cuộc nói chuyện của Mao Mao Đồng chí, Mao Đồng chí Lưu và các đồng chí khác, tôi đã rút ra được một số kinh nghiệm, và tôi lo lắng hơn trước.
+　　Chủ tọa: Một mặt, chúng ta nên lo lắng, mặt khác, chúng ta nên lạc quan. Đảng không tàn, trời không sập, cây trên núi vẫn mọc, cá lội dưới nước, đàn bà con thơ. Nếu bạn không tin tôi, hãy xem. Chẳng lẽ sau Khrushchev, trời sập, cây cối trên núi không mọc, cá dưới nước không bơi, phụ nữ không có con? Tôi không tin điều đó. Sự phát triển của sự vật không ngừng chuyển sang trái ngược của nó. Sau khi Marx và Engels chết, những người kế tục họ trở thành những người chống Marxist. Sau cái chết của Lenin, có thế hệ của Stalin. Stalin không ngờ rằng sau khi ông mất, Khrushchev lại chống đối ông và vô nhân đạo đến mức ngay cả giai cấp tư sản trên thế giới cũng không có thiện cảm với ông. Trong quá khứ, chính Khrushchev từng khoe rằng Stalin rất quyền lực, và người ta nói rằng ông ta không tốt chút nào khi ông ta chết, và đó là "sự mê tín cá nhân" của ông ta. Tại sao không nên mê tín? Người Việt Nam của bạn không tin bạn một chút sao? Nếu bạn có thể đánh bại người Mỹ, bạn phải có một cái đầu.
+　　(Tại thời điểm này trong cuộc trò chuyện, Giang Thanh đã tham gia.)
+　　Bác Hồ: Bài tập này đã giúp tôi rất nhiều. Trước khi đến Trung Quốc, tôi không biết rằng cuộc đấu tranh này lại diễn ra gay gắt và rộng lớn như vậy. Sau khi nghe bạn nói chuyện, tôi biết rõ hơn nhiều so với việc đọc báo. Tôi không giáo điều, nhưng tôi nghĩ những gì Trung Quốc làm, Việt Nam cũng vậy, nhưng ở quy mô nhỏ hơn.
+　　CHỦ TỊCH: Có thể có cơ hội. Bây giờ bạn đang chiến đấu với người Mỹ và máy bay địch đang ném bom hàng ngày, bạn cần phải suy nghĩ về những gì phải làm. Chúng ta đã tích lũy chất độc nhiều năm, chất độc đã thải ra nhiều năm, chủ yếu là 4 năm 1959, 1960, 1961, 1962.
+　　Bác Hồ: Trung Quốc đang trải qua thảm họa thiên nhiên vào thời điểm đó.
+　　Chủ tọa: Thiên tai và nhân tạo, chúng tôi đã phạm sai lầm, Khrushchev sẽ trừng phạt chúng tôi. Không trách được Chúa.
+　　Hồ: Vẫn còn một số câu hỏi, tôi sẽ nói chuyện với các đồng chí Lưu Thiếu Kỳ, Chu Ân Lai và Đặng Tiểu Bình.
+　　Mao Đồng chí: Bạn có thể nói chuyện với họ, bạn cũng có thể nói chuyện với các bí thư huyện Tao Zhu, Liu Lantao, Song Renqiong, Wei Wenbo, Li Dazhang, Wang Renzhong và các đồng chí khác. Tôi vẫn chưa nhìn thấy chúng.
+　　Hồ: Xin đồng chí Wu Xiuquan giúp thu xếp.
+　　Hôm nay chiếm rất nhiều thời gian của Mao Mao Đồng chí, và Mao Mao Đồng chí mệt mỏi.
+　　Mao Đồng chí: Đừng mệt mỏi. Bạn thấy đấy, tôi tốt hơn trước. Khi bạn gặp tôi vào năm ngoái, trong vòng một giờ nói chuyện, bạn đã thương hại tôi và nói lời tạm biệt.
+
+
+Nguồn: "Bài phát biểu của Mao Trạch Đông mới được phát hiện trong kho lưu trữ bí mật", do Song Yongyi chủ biên, Nhà xuất bản Lịch sử Quốc gia, tháng 7 năm 2018
+
+
+
+Cảm ơn Visalion đã thu thập và sắp xếp
