@@ -47,14 +47,14 @@ Mục lục
 　　(30) Công nghệ và thiết bị kỹ thuật đại dương quy mô lớn
 　　(31) Nguyên vật liệu cơ bản
 　　(32) Một thế hệ vật liệu và thiết bị chức năng thông tin mới
-　　(33) Vật liệu và kỹ thuật hỗ trợ quân sự
+　　(33) Vật liệu và kỹ thuật hỗ trợ công nghiệp quân sự
 　　6. Ngành giao thông vận tải
-　　(34) Công nghệ và thiết bị xây dựng và bảo trì cơ sở hạ tầng
-　　giao thông vận tải (35) Hệ thống giao thông đường sắt tốc độ cao
-　　(36) Phương tiện năng lượng mới và tiêu thụ ít năng lượng
+　　(34) Công nghệ và thiết bị xây dựng và bảo trì cơ sở hạ tầng giao thông vận tải 
+    (35) Hệ thống giao thông đường sắt tốc độ cao
+　　(36) Xe ô tô năng lượng mới và tiêu thụ ít năng lượng
 　　(37) Công nghệ và thiết bị giao thông hiệu quả
 　　(38) Hệ thống quản lý giao thông thông minh
-　　(39) An toàn giao thông và bảo vệ khẩn cấp
+　　(39) Giao thông vận tải an toàn và bảo vệ khẩn cấp
 　　7. Công nghiệp thông tin và công nghiệp dịch vụ hiện đại
 　　(40) Công nghệ thông tin hỗ trợ công nghiệp dịch vụ hiện đại và phần mềm ứng dụng quy mô lớn
 　　(41) Công nghệ và dịch vụ khóa mạng thế hệ tiếp theo
